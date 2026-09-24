@@ -1,0 +1,74 @@
+[
+  {
+    "party": "Ap",
+    "file": "ap.png",
+    "source": "https://www.arbeiderpartiet.no/om/presse/profil/",
+    "asset": "https://res.cloudinary.com/arbeiderpartiet/raw/upload/fl_attachment:arbeiderpartiet-logo/v1/ievv_filestore/342d353c1d5a4c56883d08c84623f1aa74069d0ac9ed4ea2877ca2d9e55e3037.zip",
+    "notes": "Original red rose PNG from official ZIP; preserve proportions and clear space. Full wordmark alternatives in ap/02_Hovedlogo."
+  },
+  {
+    "party": "Høyre",
+    "file": "h.svg",
+    "source": "https://hoyre.no/design/visuell-identitet-logo/",
+    "asset": "https://hoyre.no/content/uploads/2023/07/2020_RGB_hoyre_logo_blaa_bokmaal_01.svg",
+    "notes": "Original transparent SVG; blue #0065F1 on light background; ample clear space."
+  },
+  {
+    "party": "Sp",
+    "file": "sp-symbol.png",
+    "alternate": "sp.png",
+    "source": "https://www.senterpartiet.no/profilhandbok/profilering/grafisk-profil",
+    "asset": "https://www.senterpartiet.no/profilhandbok/profilering/grafisk-profil/_/attachment/download/20ce1e8c-3dd8-46b1-bbff-377339fcf0bd:8b4d29ded65d53c6d225c2ba91c58190b42a96c1/Kun%20kl%C3%B8ver%20png%20(pdf).pdf",
+    "notes": "Official 2026 clover PDF rendered at 2x to RGBA PNG. sp.png is full logo and slogan. Original PDFs retained. Profile clear space 1/3 clover width."
+  },
+  {
+    "party": "FrP",
+    "file": "frp.png",
+    "source": "https://www.frp.no/presse",
+    "asset": "https://d3acja3ybn8ixf.cloudfront.net/skyfish-public-page/logos/frp_63c2746ce3192.png",
+    "notes": "Official public Skyfish media library logo https://public.skyfish.com/p/frp/531052 . Original transparent PNG 200x200."
+  },
+  {
+    "party": "KrF",
+    "file": "krf.png",
+    "source": "https://krf.no/ressursbank/grafisk-profil-for-lokallag/",
+    "asset": "https://krf.no/content/uploads/2025/01/KRF_Primaerlogo_Nattehimmel1.png",
+    "notes": "Current 2025 transparent dark wordmark, original 1530x801 PNG."
+  },
+  {
+    "party": "Venstre",
+    "file": "v.svg",
+    "alternate": "v-symbol.svg",
+    "source": "https://www.venstre.no/organisasjon/visuell-identitet/",
+    "asset": "https://drive.google.com/file/d/1n4RpiW-n45QrIHwZ3z4RXKVAZLP8wuiu/view",
+    "notes": "Original SVG from official linked Drive folder. Editorial media, education, research permitted by source. Do not change colors or proportions or crop; clear space at least 1/4 symbol width. Symbol file ID 1p3wRcpYpTJhX6xqNr_5HvbQiTmYyhVcc."
+  },
+  {
+    "party": "SV",
+    "file": "sv.svg",
+    "source": "https://www.sv.no/ressursbanken/grafisk/grafisk-profil/",
+    "asset": "https://www.sv.no/wp-content/uploads/2021/06/logopakke-nynorsk.zip",
+    "notes": "Original SVG in official nynorsk ZIP; 2020 profile, not anniversary logo."
+  },
+  {
+    "party": "Rødt",
+    "file": "r.svg",
+    "source": "https://roedt.no/grafisk-materiell",
+    "asset": "https://commons.wikimedia.org/wiki/File:R%C3%B8dt_logo_(bokm%C3%A5l).svg",
+    "notes": "Party-authored SVG mirror used as official download encountered security checkpoint. Official source says logo free to use, always symbol+name as whole, preserve proportions; red star + black name on light background."
+  },
+  {
+    "party": "MDG",
+    "file": "mdg.svg",
+    "source": "https://mdg.no/grafisk_profil",
+    "asset": "https://commons.wikimedia.org/wiki/File:MDG_logo_2024.svg",
+    "notes": "Party-authored 2024 SVG mirror; Wikimedia labels CC0. Current official brand portal links Figma template. Do not use older sunflower logo."
+  },
+  {
+    "party": "INP",
+    "file": "inp.jpg",
+    "source": "https://inpartiet.no/",
+    "asset": "https://inpartiet.no/images/logo/INP.jpg",
+    "notes": "Original official website JPG fallback, NOT transparent. Original official inp.pdf profile retained. Transparent standalone logo not found. Profile specifies min clear space half N letter size."
+  }
+]

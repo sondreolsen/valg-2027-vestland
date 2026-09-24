@@ -1,0 +1,6 @@
+research/
+.sites-runtime/
+node_modules/
+*.zip
+*.tgz
+.env*
