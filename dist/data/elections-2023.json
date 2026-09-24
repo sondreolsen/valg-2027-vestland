@@ -1,0 +1,2453 @@
+{
+  "4635": {
+    "name": "Gulen",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4635",
+    "totalSeats": 21,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 20.8,
+        "seats": 4
+      },
+      {
+        "party": "H",
+        "percent": 31.6,
+        "seats": 7
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 35.8,
+        "seats": 7
+      },
+      {
+        "party": "KrF",
+        "percent": 7.8,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 3.9,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4636": {
+    "name": "Solund",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4636",
+    "totalSeats": 15,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 16.5,
+        "seats": 2
+      },
+      {
+        "party": "H",
+        "percent": 23.5,
+        "seats": 4
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 7.6,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 52.4,
+        "seats": 8
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4637": {
+    "name": "Hyllestad",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4637",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 56.8,
+        "seats": 9
+      },
+      {
+        "party": "H",
+        "percent": 16.2,
+        "seats": 3
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 27.0,
+        "seats": 5
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4638": {
+    "name": "Høyanger",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4638",
+    "totalSeats": 21,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 37.6,
+        "seats": 8
+      },
+      {
+        "party": "H",
+        "percent": 11.3,
+        "seats": 2
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 5.1,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 21.3,
+        "seats": 5
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 13.3,
+        "seats": 3
+      },
+      {
+        "party": "Andre",
+        "percent": 11.4,
+        "seats": 2
+      }
+    ]
+  },
+  "4639": {
+    "name": "Vik",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4639",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 58.9,
+        "seats": 10
+      },
+      {
+        "party": "H",
+        "percent": 11.3,
+        "seats": 2
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 6.2,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 23.7,
+        "seats": 4
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4640": {
+    "name": "Sogndal",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4640",
+    "totalSeats": 31,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 26.6,
+        "seats": 8
+      },
+      {
+        "party": "H",
+        "percent": 12.1,
+        "seats": 4
+      },
+      {
+        "party": "FrP",
+        "percent": 8.9,
+        "seats": 3
+      },
+      {
+        "party": "SV",
+        "percent": 11.8,
+        "seats": 4
+      },
+      {
+        "party": "Sp",
+        "percent": 22.8,
+        "seats": 7
+      },
+      {
+        "party": "KrF",
+        "percent": 7.4,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 4.3,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 3.3,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 2.8,
+        "seats": 1
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4641": {
+    "name": "Aurland",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4641",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 40.2,
+        "seats": 7
+      },
+      {
+        "party": "H",
+        "percent": 26.4,
+        "seats": 5
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 17.8,
+        "seats": 3
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 6.9,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 8.6,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4642": {
+    "name": "Lærdal",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4642",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 54.9,
+        "seats": 9
+      },
+      {
+        "party": "H",
+        "percent": 7.4,
+        "seats": 1
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 11.1,
+        "seats": 2
+      },
+      {
+        "party": "Sp",
+        "percent": 26.5,
+        "seats": 5
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4643": {
+    "name": "Årdal",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4643",
+    "totalSeats": 21,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 72.0,
+        "seats": 15
+      },
+      {
+        "party": "H",
+        "percent": 28.0,
+        "seats": 6
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4644": {
+    "name": "Luster",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4644",
+    "totalSeats": 25,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 32.4,
+        "seats": 8
+      },
+      {
+        "party": "H",
+        "percent": 11.0,
+        "seats": 3
+      },
+      {
+        "party": "FrP",
+        "percent": 4.4,
+        "seats": 1
+      },
+      {
+        "party": "SV",
+        "percent": 4.8,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 37.6,
+        "seats": 9
+      },
+      {
+        "party": "KrF",
+        "percent": 7.0,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 2.8,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4645": {
+    "name": "Askvoll",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4645",
+    "totalSeats": 21,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 9.9,
+        "seats": 2
+      },
+      {
+        "party": "H",
+        "percent": 40.7,
+        "seats": 9
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 11.8,
+        "seats": 3
+      },
+      {
+        "party": "Sp",
+        "percent": 21.2,
+        "seats": 4
+      },
+      {
+        "party": "KrF",
+        "percent": 6.1,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 10.3,
+        "seats": 2
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4646": {
+    "name": "Fjaler",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4646",
+    "totalSeats": 23,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 18.6,
+        "seats": 5
+      },
+      {
+        "party": "H",
+        "percent": 18.0,
+        "seats": 4
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 9.6,
+        "seats": 2
+      },
+      {
+        "party": "Sp",
+        "percent": 27.1,
+        "seats": 6
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 17.0,
+        "seats": 4
+      },
+      {
+        "party": "MDG",
+        "percent": 7.3,
+        "seats": 2
+      },
+      {
+        "party": "R",
+        "percent": 2.5,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4647": {
+    "name": "Sunnfjord",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4647",
+    "totalSeats": 37,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 20.9,
+        "seats": 8
+      },
+      {
+        "party": "H",
+        "percent": 14.8,
+        "seats": 6
+      },
+      {
+        "party": "FrP",
+        "percent": 4.0,
+        "seats": 2
+      },
+      {
+        "party": "SV",
+        "percent": 13.6,
+        "seats": 5
+      },
+      {
+        "party": "Sp",
+        "percent": 21.4,
+        "seats": 8
+      },
+      {
+        "party": "KrF",
+        "percent": 3.3,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 10.7,
+        "seats": 4
+      },
+      {
+        "party": "MDG",
+        "percent": 3.7,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 1.8,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 5.7,
+        "seats": 2
+      }
+    ]
+  },
+  "4648": {
+    "name": "Bremanger",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4648",
+    "totalSeats": 23,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 24.2,
+        "seats": 6
+      },
+      {
+        "party": "H",
+        "percent": 15.1,
+        "seats": 3
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 3.8,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 18.2,
+        "seats": 4
+      },
+      {
+        "party": "KrF",
+        "percent": 4.2,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 20.1,
+        "seats": 5
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 2.9,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 11.5,
+        "seats": 3
+      }
+    ]
+  },
+  "4649": {
+    "name": "Stad",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4649",
+    "totalSeats": 31,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 16.0,
+        "seats": 5
+      },
+      {
+        "party": "H",
+        "percent": 9.6,
+        "seats": 3
+      },
+      {
+        "party": "FrP",
+        "percent": 13.9,
+        "seats": 4
+      },
+      {
+        "party": "SV",
+        "percent": 4.8,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 32.8,
+        "seats": 10
+      },
+      {
+        "party": "KrF",
+        "percent": 5.7,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 9.2,
+        "seats": 3
+      },
+      {
+        "party": "MDG",
+        "percent": 2.5,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 5.4,
+        "seats": 2
+      }
+    ]
+  },
+  "4650": {
+    "name": "Gloppen",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4650",
+    "totalSeats": 27,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 17.4,
+        "seats": 5
+      },
+      {
+        "party": "H",
+        "percent": 23.6,
+        "seats": 6
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 8.1,
+        "seats": 2
+      },
+      {
+        "party": "Sp",
+        "percent": 28.6,
+        "seats": 8
+      },
+      {
+        "party": "KrF",
+        "percent": 12.8,
+        "seats": 3
+      },
+      {
+        "party": "V",
+        "percent": 3.8,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 5.7,
+        "seats": 2
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4651": {
+    "name": "Stryn",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4651",
+    "totalSeats": 25,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 11.9,
+        "seats": 3
+      },
+      {
+        "party": "H",
+        "percent": 24.4,
+        "seats": 6
+      },
+      {
+        "party": "FrP",
+        "percent": 8.2,
+        "seats": 2
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 32.3,
+        "seats": 8
+      },
+      {
+        "party": "KrF",
+        "percent": 5.9,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 11.7,
+        "seats": 3
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 3.9,
+        "seats": 1
+      },
+      {
+        "party": "Andre",
+        "percent": 1.7,
+        "seats": 0
+      }
+    ]
+  },
+  "4602": {
+    "name": "Kinn",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4602",
+    "totalSeats": 39,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 20.6,
+        "seats": 8
+      },
+      {
+        "party": "H",
+        "percent": 25.0,
+        "seats": 10
+      },
+      {
+        "party": "FrP",
+        "percent": 12.5,
+        "seats": 5
+      },
+      {
+        "party": "SV",
+        "percent": 6.0,
+        "seats": 2
+      },
+      {
+        "party": "Sp",
+        "percent": 6.9,
+        "seats": 3
+      },
+      {
+        "party": "KrF",
+        "percent": 4.1,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 8.6,
+        "seats": 3
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 9.9,
+        "seats": 4
+      },
+      {
+        "party": "Andre",
+        "percent": 6.5,
+        "seats": 2
+      }
+    ]
+  },
+  "4601": {
+    "name": "Bergen",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4601",
+    "totalSeats": 67,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 18.5,
+        "seats": 13
+      },
+      {
+        "party": "H",
+        "percent": 26.5,
+        "seats": 18
+      },
+      {
+        "party": "FrP",
+        "percent": 10.5,
+        "seats": 7
+      },
+      {
+        "party": "SV",
+        "percent": 10.0,
+        "seats": 7
+      },
+      {
+        "party": "Sp",
+        "percent": 2.3,
+        "seats": 2
+      },
+      {
+        "party": "KrF",
+        "percent": 3.4,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 5.0,
+        "seats": 3
+      },
+      {
+        "party": "MDG",
+        "percent": 5.2,
+        "seats": 4
+      },
+      {
+        "party": "R",
+        "percent": 4.0,
+        "seats": 3
+      },
+      {
+        "party": "Andre",
+        "percent": 14.6,
+        "seats": 8
+      }
+    ]
+  },
+  "4611": {
+    "name": "Etne",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4611",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 14.6,
+        "seats": 3
+      },
+      {
+        "party": "H",
+        "percent": 9.4,
+        "seats": 2
+      },
+      {
+        "party": "FrP",
+        "percent": 26.6,
+        "seats": 4
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 26.5,
+        "seats": 4
+      },
+      {
+        "party": "KrF",
+        "percent": 8.8,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 4.1,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 2.2,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 7.7,
+        "seats": 1
+      }
+    ]
+  },
+  "4612": {
+    "name": "Sveio",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4612",
+    "totalSeats": 25,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 19.1,
+        "seats": 5
+      },
+      {
+        "party": "H",
+        "percent": 21.9,
+        "seats": 5
+      },
+      {
+        "party": "FrP",
+        "percent": 14.2,
+        "seats": 4
+      },
+      {
+        "party": "SV",
+        "percent": 3.5,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 10.6,
+        "seats": 3
+      },
+      {
+        "party": "KrF",
+        "percent": 9.3,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 2.7,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 2.8,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 15.9,
+        "seats": 4
+      }
+    ]
+  },
+  "4613": {
+    "name": "Bømlo",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4613",
+    "totalSeats": 27,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 14.4,
+        "seats": 4
+      },
+      {
+        "party": "H",
+        "percent": 21.6,
+        "seats": 6
+      },
+      {
+        "party": "FrP",
+        "percent": 15.1,
+        "seats": 4
+      },
+      {
+        "party": "SV",
+        "percent": 3.4,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 5.3,
+        "seats": 2
+      },
+      {
+        "party": "KrF",
+        "percent": 19.6,
+        "seats": 5
+      },
+      {
+        "party": "V",
+        "percent": 2.2,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 2.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 1.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 15.5,
+        "seats": 5
+      }
+    ]
+  },
+  "4614": {
+    "name": "Stord",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4614",
+    "totalSeats": 35,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 27.2,
+        "seats": 10
+      },
+      {
+        "party": "H",
+        "percent": 20.0,
+        "seats": 8
+      },
+      {
+        "party": "FrP",
+        "percent": 19.5,
+        "seats": 7
+      },
+      {
+        "party": "SV",
+        "percent": 8.4,
+        "seats": 3
+      },
+      {
+        "party": "Sp",
+        "percent": 3.3,
+        "seats": 1
+      },
+      {
+        "party": "KrF",
+        "percent": 5.9,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 3.9,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 1.8,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 2.5,
+        "seats": 1
+      },
+      {
+        "party": "Andre",
+        "percent": 7.3,
+        "seats": 2
+      }
+    ]
+  },
+  "4615": {
+    "name": "Fitjar",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4615",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 14.2,
+        "seats": 2
+      },
+      {
+        "party": "H",
+        "percent": 27.8,
+        "seats": 5
+      },
+      {
+        "party": "FrP",
+        "percent": 14.9,
+        "seats": 3
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 7.7,
+        "seats": 1
+      },
+      {
+        "party": "KrF",
+        "percent": 27.2,
+        "seats": 5
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 8.2,
+        "seats": 1
+      }
+    ]
+  },
+  "4616": {
+    "name": "Tysnes",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4616",
+    "totalSeats": 21,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 20.2,
+        "seats": 4
+      },
+      {
+        "party": "H",
+        "percent": 23.8,
+        "seats": 5
+      },
+      {
+        "party": "FrP",
+        "percent": 9.9,
+        "seats": 2
+      },
+      {
+        "party": "SV",
+        "percent": 12.8,
+        "seats": 3
+      },
+      {
+        "party": "Sp",
+        "percent": 13.9,
+        "seats": 3
+      },
+      {
+        "party": "KrF",
+        "percent": 5.8,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 1.3,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 12.3,
+        "seats": 3
+      }
+    ]
+  },
+  "4617": {
+    "name": "Kvinnherad",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4617",
+    "totalSeats": 35,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 16.2,
+        "seats": 6
+      },
+      {
+        "party": "H",
+        "percent": 26.0,
+        "seats": 9
+      },
+      {
+        "party": "FrP",
+        "percent": 9.2,
+        "seats": 3
+      },
+      {
+        "party": "SV",
+        "percent": 8.3,
+        "seats": 3
+      },
+      {
+        "party": "Sp",
+        "percent": 14.1,
+        "seats": 5
+      },
+      {
+        "party": "KrF",
+        "percent": 4.9,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 2.7,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 3.7,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 15.0,
+        "seats": 5
+      }
+    ]
+  },
+  "4618": {
+    "name": "Ullensvang",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4618",
+    "totalSeats": 33,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 33.4,
+        "seats": 11
+      },
+      {
+        "party": "H",
+        "percent": 8.3,
+        "seats": 3
+      },
+      {
+        "party": "FrP",
+        "percent": 1.9,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 2.9,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 33.8,
+        "seats": 12
+      },
+      {
+        "party": "KrF",
+        "percent": 2.1,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 1.9,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 1.5,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 5.6,
+        "seats": 2
+      },
+      {
+        "party": "Andre",
+        "percent": 8.5,
+        "seats": 3
+      }
+    ]
+  },
+  "4619": {
+    "name": "Eidfjord",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4619",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 31.0,
+        "seats": 5
+      },
+      {
+        "party": "H",
+        "percent": 27.9,
+        "seats": 5
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 15.2,
+        "seats": 3
+      },
+      {
+        "party": "Sp",
+        "percent": 25.9,
+        "seats": 4
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4620": {
+    "name": "Ulvik",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4620",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 20.6,
+        "seats": 3
+      },
+      {
+        "party": "H",
+        "percent": 18.8,
+        "seats": 3
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 11.1,
+        "seats": 2
+      },
+      {
+        "party": "Sp",
+        "percent": 22.2,
+        "seats": 4
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 27.2,
+        "seats": 5
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4621": {
+    "name": "Voss",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4621",
+    "totalSeats": 43,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 17.7,
+        "seats": 8
+      },
+      {
+        "party": "H",
+        "percent": 19.8,
+        "seats": 9
+      },
+      {
+        "party": "FrP",
+        "percent": 4.2,
+        "seats": 2
+      },
+      {
+        "party": "SV",
+        "percent": 12.1,
+        "seats": 5
+      },
+      {
+        "party": "Sp",
+        "percent": 24.2,
+        "seats": 10
+      },
+      {
+        "party": "KrF",
+        "percent": 2.3,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 3.3,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 3.1,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 2.8,
+        "seats": 1
+      },
+      {
+        "party": "Andre",
+        "percent": 10.6,
+        "seats": 5
+      }
+    ]
+  },
+  "4622": {
+    "name": "Kvam",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4622",
+    "totalSeats": 27,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 24.1,
+        "seats": 6
+      },
+      {
+        "party": "H",
+        "percent": 13.3,
+        "seats": 4
+      },
+      {
+        "party": "FrP",
+        "percent": 21.3,
+        "seats": 6
+      },
+      {
+        "party": "SV",
+        "percent": 4.0,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 14.1,
+        "seats": 4
+      },
+      {
+        "party": "KrF",
+        "percent": 7.8,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 2.8,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 3.4,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 3.7,
+        "seats": 1
+      },
+      {
+        "party": "Andre",
+        "percent": 5.4,
+        "seats": 1
+      }
+    ]
+  },
+  "4623": {
+    "name": "Samnanger",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4623",
+    "totalSeats": 21,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 18.3,
+        "seats": 4
+      },
+      {
+        "party": "H",
+        "percent": 9.0,
+        "seats": 2
+      },
+      {
+        "party": "FrP",
+        "percent": 23.5,
+        "seats": 5
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 5.9,
+        "seats": 1
+      },
+      {
+        "party": "KrF",
+        "percent": 6.1,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 7.9,
+        "seats": 2
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 29.3,
+        "seats": 6
+      }
+    ]
+  },
+  "4624": {
+    "name": "Bjørnafjorden",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4624",
+    "totalSeats": 35,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 17.6,
+        "seats": 6
+      },
+      {
+        "party": "H",
+        "percent": 15.0,
+        "seats": 6
+      },
+      {
+        "party": "FrP",
+        "percent": 34.8,
+        "seats": 13
+      },
+      {
+        "party": "SV",
+        "percent": 4.2,
+        "seats": 2
+      },
+      {
+        "party": "Sp",
+        "percent": 6.5,
+        "seats": 2
+      },
+      {
+        "party": "KrF",
+        "percent": 3.5,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 3.2,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 3.6,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 1.4,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 10.1,
+        "seats": 3
+      }
+    ]
+  },
+  "4631": {
+    "name": "Alver",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4631",
+    "totalSeats": 41,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 15.4,
+        "seats": 6
+      },
+      {
+        "party": "H",
+        "percent": 20.4,
+        "seats": 8
+      },
+      {
+        "party": "FrP",
+        "percent": 13.7,
+        "seats": 6
+      },
+      {
+        "party": "SV",
+        "percent": 3.7,
+        "seats": 2
+      },
+      {
+        "party": "Sp",
+        "percent": 13.5,
+        "seats": 6
+      },
+      {
+        "party": "KrF",
+        "percent": 14.2,
+        "seats": 6
+      },
+      {
+        "party": "V",
+        "percent": 2.1,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 2.3,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 2.0,
+        "seats": 1
+      },
+      {
+        "party": "Andre",
+        "percent": 12.5,
+        "seats": 4
+      }
+    ]
+  },
+  "4632": {
+    "name": "Austrheim",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4632",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 33.5,
+        "seats": 6
+      },
+      {
+        "party": "H",
+        "percent": 28.1,
+        "seats": 5
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 2.6,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 16.1,
+        "seats": 3
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 19.7,
+        "seats": 3
+      }
+    ]
+  },
+  "4633": {
+    "name": "Fedje",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4633",
+    "totalSeats": 13,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 41.8,
+        "seats": 6
+      },
+      {
+        "party": "H",
+        "percent": 42.1,
+        "seats": 5
+      },
+      {
+        "party": "FrP",
+        "percent": 16.0,
+        "seats": 2
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4634": {
+    "name": "Masfjorden",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4634",
+    "totalSeats": 17,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 25.3,
+        "seats": 4
+      },
+      {
+        "party": "H",
+        "percent": 38.7,
+        "seats": 7
+      },
+      {
+        "party": "FrP",
+        "percent": 14.6,
+        "seats": 2
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 16.1,
+        "seats": 3
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 5.4,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 0.0,
+        "seats": 0
+      }
+    ]
+  },
+  "4629": {
+    "name": "Modalen",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4629",
+    "totalSeats": 13,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "H",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "FrP",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "SV",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "KrF",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "V",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 100.0,
+        "seats": 13
+      }
+    ]
+  },
+  "4630": {
+    "name": "Osterøy",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4630",
+    "totalSeats": 27,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 14.2,
+        "seats": 4
+      },
+      {
+        "party": "H",
+        "percent": 15.7,
+        "seats": 4
+      },
+      {
+        "party": "FrP",
+        "percent": 20.1,
+        "seats": 6
+      },
+      {
+        "party": "SV",
+        "percent": 4.1,
+        "seats": 1
+      },
+      {
+        "party": "Sp",
+        "percent": 25.7,
+        "seats": 7
+      },
+      {
+        "party": "KrF",
+        "percent": 6.7,
+        "seats": 2
+      },
+      {
+        "party": "V",
+        "percent": 4.7,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 1.5,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 7.3,
+        "seats": 2
+      }
+    ]
+  },
+  "4628": {
+    "name": "Vaksdal",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4628",
+    "totalSeats": 21,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 18.5,
+        "seats": 4
+      },
+      {
+        "party": "H",
+        "percent": 15.9,
+        "seats": 3
+      },
+      {
+        "party": "FrP",
+        "percent": 9.1,
+        "seats": 2
+      },
+      {
+        "party": "SV",
+        "percent": 12.4,
+        "seats": 3
+      },
+      {
+        "party": "Sp",
+        "percent": 16.6,
+        "seats": 4
+      },
+      {
+        "party": "KrF",
+        "percent": 4.8,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 2.7,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 1.3,
+        "seats": 0
+      },
+      {
+        "party": "R",
+        "percent": 6.7,
+        "seats": 1
+      },
+      {
+        "party": "Andre",
+        "percent": 12.0,
+        "seats": 3
+      }
+    ]
+  },
+  "4627": {
+    "name": "Askøy",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4627",
+    "totalSeats": 35,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 17.2,
+        "seats": 6
+      },
+      {
+        "party": "H",
+        "percent": 25.9,
+        "seats": 10
+      },
+      {
+        "party": "FrP",
+        "percent": 19.9,
+        "seats": 7
+      },
+      {
+        "party": "SV",
+        "percent": 8.4,
+        "seats": 3
+      },
+      {
+        "party": "Sp",
+        "percent": 2.1,
+        "seats": 1
+      },
+      {
+        "party": "KrF",
+        "percent": 3.1,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 2.1,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 2.2,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 19.2,
+        "seats": 5
+      }
+    ]
+  },
+  "4626": {
+    "name": "Øygarden",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4626",
+    "totalSeats": 45,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 14.4,
+        "seats": 7
+      },
+      {
+        "party": "H",
+        "percent": 30.6,
+        "seats": 14
+      },
+      {
+        "party": "FrP",
+        "percent": 15.3,
+        "seats": 7
+      },
+      {
+        "party": "SV",
+        "percent": 4.4,
+        "seats": 2
+      },
+      {
+        "party": "Sp",
+        "percent": 2.7,
+        "seats": 1
+      },
+      {
+        "party": "KrF",
+        "percent": 6.7,
+        "seats": 3
+      },
+      {
+        "party": "V",
+        "percent": 2.4,
+        "seats": 1
+      },
+      {
+        "party": "MDG",
+        "percent": 2.2,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 2.0,
+        "seats": 1
+      },
+      {
+        "party": "Andre",
+        "percent": 19.2,
+        "seats": 8
+      }
+    ]
+  },
+  "4625": {
+    "name": "Austevoll",
+    "source": "https://www.pollofpolls.no/?cmd=Kommunestyre&do=visvalg&valg=2023&id=4625",
+    "totalSeats": 21,
+    "results": [
+      {
+        "party": "Ap",
+        "percent": 10.7,
+        "seats": 2
+      },
+      {
+        "party": "H",
+        "percent": 32.6,
+        "seats": 7
+      },
+      {
+        "party": "FrP",
+        "percent": 33.1,
+        "seats": 8
+      },
+      {
+        "party": "SV",
+        "percent": 1.8,
+        "seats": 0
+      },
+      {
+        "party": "Sp",
+        "percent": 1.9,
+        "seats": 0
+      },
+      {
+        "party": "KrF",
+        "percent": 4.9,
+        "seats": 1
+      },
+      {
+        "party": "V",
+        "percent": 1.0,
+        "seats": 0
+      },
+      {
+        "party": "MDG",
+        "percent": 3.7,
+        "seats": 1
+      },
+      {
+        "party": "R",
+        "percent": 0.0,
+        "seats": 0
+      },
+      {
+        "party": "Andre",
+        "percent": 10.3,
+        "seats": 2
+      }
+    ]
+  }
+}
