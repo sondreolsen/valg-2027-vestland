@@ -5,3 +5,5 @@
 .result-jump{display:inline-block;margin-top:16px;font-size:.875rem;font-weight:600}#election-heading{scroll-margin-top:24px}
 
 .toolbar{justify-content:flex-end}@media(max-width:760px){.toolbar .picker{margin-top:0}}
+
+header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .picker select{width:190px;margin:0}@media(max-width:760px){header{gap:12px}header .brand{min-width:0}header .brand-mark{display:none}header .eyebrow{font-size:.5rem;letter-spacing:.08em}header h1{font-size:1.25rem;white-space:nowrap}header h1 span{display:block;margin:3px 0 0}header .picker{display:flex;flex-direction:column;align-items:stretch;gap:6px;font-size:.7rem}header .picker select{width:140px;min-width:0;font-size:.875rem;padding:10px 25px 10px 10px}}@media(max-width:370px){header .picker select{width:125px}header h1{font-size:1.1rem}}
