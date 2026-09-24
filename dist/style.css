@@ -12,3 +12,6 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .detail h2{margin-bottom:2px}
 .detail .mayor{align-items:flex-start;padding:0 0 15px}
 @media(max-width:760px){.detail{padding-top:16px}.detail h2{margin-bottom:2px}.detail .mayor{padding-top:0}}
+/* Match the marker scale requested for the supplied Høyre and KrF marks. */
+.marker-inner img[src$="hoyre.png"]{width:19.2px;height:19.2px}
+.marker-inner img[src$="krf.png"]{width:12px;height:12px}
