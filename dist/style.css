@@ -27,3 +27,8 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .candidate-section{margin:0;padding:20px 16px 22px;background:#fff;border:0;border-top:1px solid var(--border);border-radius:0;box-shadow:none}
 @media(max-width:760px){.map-column{display:contents}.map-shell{order:1}.detail{order:2}.candidate-section{order:3}}
 
+/* Show Poll of polls mandate estimates beside each percentage. */
+.bar-row{grid-template-columns:50px minmax(0,1fr) 42px 44px}
+.bar-seats{text-align:right;color:var(--muted);font-size:.75rem;font-weight:650;white-space:nowrap}
+@media(max-width:760px){.bar-row{grid-template-columns:57px minmax(0,1fr) 45px 42px}}
+
