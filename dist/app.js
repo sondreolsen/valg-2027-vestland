@@ -30,7 +30,7 @@ function renderElection(result){
   const p=parties[r.party],label={H:'Høyre',V:'Venstre',R:'Rødt'}[r.party]||r.party;
   return `<tr><th scope="row"><i style="--party:${p.color}" aria-hidden="true"></i>${esc(label)}</th><td>${pct(r.percent)} %</td><td>${r.seats}</td></tr>`;
  }).join('');
- return `<section class="election-2023" aria-labelledby="election-heading"><h3 id="election-heading">Valgresultat 2023</h3><p>Kommunestyrevalget · ${result.totalSeats} mandater</p><table><caption class="visually-hidden">Valgresultat 2023 i ${esc(result.name)}: oppslutning og mandater per parti</caption><thead><tr><th scope="col">Parti</th><th scope="col">Prosent</th><th scope="col">Mandater</th></tr></thead><tbody>${rows}</tbody><tfoot><tr><th scope="row">Totalt</th><td></td><td>${result.totalSeats}</td></tr></tfoot></table><a class="source" href="${esc(result.source)}" target="_blank" rel="noopener">Se valgresultatet hos Poll of polls ↗</a></section>`;
+ return `<section class="election-2023" aria-labelledby="election-heading"><h3 id="election-heading">Valgresultat 2023</h3><table><caption class="visually-hidden">Valgresultat 2023 i ${esc(result.name)}: oppslutning og mandater per parti</caption><thead><tr><th scope="col">Parti</th><th scope="col">Prosent</th><th scope="col">Mandater</th></tr></thead><tbody>${rows}</tbody><tfoot><tr><th scope="row">Totalt</th><td></td><td>${result.totalSeats}</td></tr></tfoot></table><a class="source" href="${esc(result.source)}" target="_blank" rel="noopener">Se valgresultatet hos Poll of polls ↗</a></section>`;
 }
 
 async function start(){
