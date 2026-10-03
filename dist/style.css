@@ -32,3 +32,7 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .bar-seats{text-align:right;color:var(--muted);font-size:.75rem;font-weight:650;white-space:nowrap}
 @media(max-width:760px){.bar-row{grid-template-columns:57px minmax(0,1fr) 45px 42px}}
 
+/* Keep poll date and publication compact on one line in the detail panel. */
+.poll-meta{font-size:.72rem;line-height:1.4;white-space:nowrap}
+@media(max-width:360px){.poll-meta{white-space:normal}}
+
