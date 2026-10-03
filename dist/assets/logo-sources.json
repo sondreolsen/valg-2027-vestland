@@ -45,10 +45,10 @@
   },
   {
     "party": "SV",
-    "file": "sv.svg",
+    "file": "sv.png",
     "source": "https://www.sv.no/ressursbanken/grafisk/grafisk-profil/",
     "asset": "https://www.sv.no/wp-content/uploads/2021/06/logopakke-nynorsk.zip",
-    "notes": "Original SVG in official nynorsk ZIP; 2020 profile, not anniversary logo."
+    "notes": "Logo supplied by the site owner."
   },
   {
     "party": "Rødt",
