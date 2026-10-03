@@ -28,9 +28,12 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 @media(max-width:760px){.map-column{display:contents}.map-shell{order:1}.detail{order:2}.candidate-section{order:3}}
 
 /* Show Poll of polls mandate estimates beside each percentage. */
-.bar-row{grid-template-columns:50px minmax(0,1fr) 42px 44px}
+.bar-row{grid-template-columns:50px minmax(0,1fr) 42px 52px}
 .bar-seats{text-align:right;color:var(--muted);font-size:.75rem;font-weight:650;white-space:nowrap}
-@media(max-width:760px){.bar-row{grid-template-columns:57px minmax(0,1fr) 45px 42px}}
+.poll-table-head{display:grid;grid-template-columns:50px minmax(0,1fr) 42px 52px;gap:8px;color:var(--muted);font-size:.68rem;font-weight:700;margin-bottom:1px}
+.poll-table-head span:nth-child(3),.poll-table-head span:nth-child(4){text-align:right}
+@media(max-width:760px){.bar-row{grid-template-columns:57px minmax(0,1fr) 45px 52px}}
+@media(max-width:760px){.poll-table-head{grid-template-columns:57px minmax(0,1fr) 45px 52px}}
 
 /* Keep poll date and publication compact on one line in the detail panel. */
 .poll-meta{font-size:.72rem;line-height:1.4;white-space:nowrap}
