@@ -17,7 +17,9 @@
 .county-leaders{display:grid;gap:15px;margin-top:18px}
 .county-mayor-person{display:grid;grid-template-columns:96px minmax(0,1fr);align-items:center;gap:14px;padding:13px;border:1px solid #dce6eb;border-radius:11px;background:#f9fbfc}
 .county-deputy-person{margin:0}
-.county-leader-photo{display:block;width:100%;height:122px;object-fit:cover;object-position:center 24%;border-radius:8px;background:linear-gradient(145deg,#e8f0f3,#dbe7eb);color:#698292}
+.county-leader-photo{display:block;width:100%;height:122px;overflow:hidden;border-radius:8px;background:linear-gradient(145deg,#e8f0f3,#dbe7eb);color:#698292}
+.county-leader-photo-image{display:block;width:100%;height:100%;object-fit:cover;object-position:center 24%}
+.county-leader-photo-jon{transform:scale(1.55);transform-origin:50% 23%}
 .county-leader-photo-stian{object-position:center 30%}
 .county-leader-photo span{width:48px;height:48px;display:grid;place-items:center;border:1px dashed #9fb4c0;border-radius:50%;background:#ffffffbd;color:#29475b;font-size:.82rem;font-weight:850}
 .county-leader-photo small{font-size:.62rem}
