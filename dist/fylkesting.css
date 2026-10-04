@@ -54,7 +54,7 @@
 .county-result-total strong{font-size:.9rem;min-width:54px;text-align:right}
 .county-source{display:inline-block;margin-top:15px;font-size:.72rem}
 .county-candidates{padding:26px 28px;margin-bottom:24px}
-.county-candidate-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+.county-candidate-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px}
 .county-candidate{overflow:hidden;border:1px solid var(--border);border-radius:11px;background:#fff}
 .county-candidate-party{min-height:48px;display:flex;align-items:center;gap:10px;padding:9px 11px;border-bottom:1px solid #edf1f4;color:#385367;font-size:.76rem;font-weight:700}
 .county-candidate-party img{width:29px;height:29px;object-fit:contain}
