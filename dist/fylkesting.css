@@ -28,7 +28,6 @@
 .county-result{padding:23px 24px}
 .county-section-heading{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:18px}
 .county-section-heading h2{font-size:1.45rem}
-.result-badge{background:#e6f5f1;border:1px solid #c7e7df;border-radius:999px;padding:6px 9px;color:#166953;font-size:.68rem;font-weight:700;white-space:nowrap}
 .county-result-bars{display:flex;flex-direction:column;gap:8px}
 .county-result-head,.county-result-row{display:grid;grid-template-columns:60px minmax(65px,1fr) 58px 56px;gap:8px;align-items:center}
 .county-result-head{color:var(--muted);font-size:.64rem;font-weight:750;padding-bottom:1px}
