@@ -48,6 +48,9 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .brand-home:hover h1{color:#8ee1d2}.brand-home:hover h1 span{color:#fff}
 @media(max-width:760px){.brand-home{gap:12px}}
 
+@media(max-width:760px){header{display:grid;grid-template-columns:minmax(0,1fr) 128px;gap:6px}header .brand{gap:2px;min-width:0}header .brand-home{min-width:0}header .eyebrow{font-size:.45rem;letter-spacing:.04em}.brand .county-link{margin-left:0;padding:5px 6px;font-size:.58rem}header .picker select{width:128px}}
+@media(max-width:370px){header{grid-template-columns:minmax(0,1fr) 118px;gap:4px}header .picker select{width:118px}.brand .county-link{padding-left:5px;padding-right:5px;font-size:.55rem}}
+
 /* Give poll and election result equal space beside a narrower desktop map. */
 .workspace{grid-template-columns:minmax(0,1fr) 620px}
 .detail{padding:21px 22px}
