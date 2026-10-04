@@ -48,3 +48,22 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .brand-home:hover h1{color:#8ee1d2}.brand-home:hover h1 span{color:#fff}
 @media(max-width:760px){.brand-home{gap:12px}}
 
+/* Give poll and election result equal space beside a narrower desktop map. */
+.workspace{grid-template-columns:minmax(0,1fr) 620px}
+.detail{padding:21px 22px}
+.municipality-summary{display:grid;grid-template-columns:180px minmax(0,1fr);align-items:center;gap:22px;padding-bottom:16px;border-bottom:1px solid var(--border)}
+.municipality-summary h2{margin:0}
+.municipality-summary .mayor{padding:0;border:0}
+.detail-data-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;margin-top:20px;align-items:start}
+.poll-panel{min-width:0}
+.poll-panel .poll-head{margin-top:0}
+.poll-panel>.empty{margin-top:0}
+.detail-data-grid .election-2023{min-width:0;margin:0;padding:0 0 0 22px;border-top:0;border-left:1px solid var(--border)}
+.detail-data-grid .election-2023 th,.detail-data-grid .election-2023 td{padding-top:8px;padding-bottom:8px}
+.detail-data-grid .bar-row,.detail-data-grid .poll-table-head{grid-template-columns:43px minmax(0,1fr) 39px 46px;gap:6px}
+.detail-data-grid .bar-row{font-size:.76rem}
+.detail-data-grid .bar-seats{font-size:.72rem}
+@media(max-width:1180px){.workspace{grid-template-columns:minmax(0,1fr) 560px}.detail{padding:20px 18px}.municipality-summary{grid-template-columns:155px minmax(0,1fr);gap:16px}.detail-data-grid{gap:17px}.detail-data-grid .election-2023{padding-left:17px}}
+@media(max-width:900px){.workspace{grid-template-columns:1fr}.detail{border-left:0;border-top:1px solid var(--border)}.detail-data-grid .bar-row,.detail-data-grid .poll-table-head{grid-template-columns:50px minmax(0,1fr) 42px 50px}}
+@media(max-width:760px){.municipality-summary{display:block;padding-bottom:15px}.municipality-summary h2{margin-bottom:2px}.municipality-summary .mayor{padding-top:0}.detail-data-grid{grid-template-columns:1fr;gap:22px}.detail-data-grid .election-2023{padding:20px 0 0;border-left:0;border-top:1px solid var(--border)}.detail-data-grid .bar-row,.detail-data-grid .poll-table-head{grid-template-columns:57px minmax(0,1fr) 45px 52px}}
+
