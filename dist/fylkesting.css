@@ -54,20 +54,20 @@
 .county-result-total strong{font-size:.9rem;min-width:54px;text-align:right}
 .county-source{display:inline-block;margin-top:15px;font-size:.72rem}
 .county-candidates{padding:26px 28px;margin-bottom:24px}
-.county-candidate-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px}
-.county-candidate{overflow:hidden;border:1px solid var(--border);border-radius:11px;background:#fff}
+.county-candidate-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}
+.county-candidate{overflow:hidden;border:1px solid var(--border);border-radius:11px;background:#fff;box-shadow:0 2px 10px #17354b08}
 .county-candidate-party{min-height:48px;display:flex;align-items:center;gap:10px;padding:9px 11px;border-bottom:1px solid #edf1f4;color:#385367;font-size:.76rem;font-weight:700}
 .county-candidate-party img{width:29px;height:29px;object-fit:contain}
 .county-candidate-party img.county-h-logo{width:34px;height:24px}
 .county-candidate-placeholder{height:150px;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:9px;background:linear-gradient(145deg,#edf3f6,#e2ebef);color:#6d8595}
 .county-candidate-placeholder span{width:54px;height:54px;border:1px dashed #9fb4c0;border-radius:50%;display:grid;place-items:center;color:var(--party);background:#ffffffc7;font-size:.78rem;font-weight:850}
 .county-candidate-placeholder small{font-size:.68rem}
-.county-candidate-photo{width:min(100%,180px);height:280px;position:relative;margin:0 auto;overflow:hidden;background:#e2ebef}
+.county-candidate-photo{width:100%;aspect-ratio:1;height:auto;position:relative;margin:0;overflow:hidden;background:#e2ebef}
 .county-candidate-photo img{width:100%;height:100%;display:block;object-fit:cover;object-position:center}
 .county-candidate-photo-jeanette img{object-position:50% 20%}
 .county-candidate-photo-heen img{object-position:70% 35%}
 .county-candidate-status{position:absolute;left:10px;bottom:10px;padding:4px 8px;border-radius:5px;background:#102a43d9;color:#fff;font-size:.72rem;font-weight:750;letter-spacing:.02em}
-.county-candidate h3{font-size:.84rem;line-height:1.35;margin:0;padding:12px 12px 14px}
+.county-candidate h3{font-size:.9rem;line-height:1.28;letter-spacing:-.015em;margin:0;padding:12px 12px 13px}
 .county-page footer{padding:4px 0 18px;align-items:center}
 .county-page footer p{margin:0}
 .back-footer{white-space:nowrap}
