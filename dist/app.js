@@ -26,11 +26,12 @@ function renderBergenCandidates(){
 
 function renderElection(result){
  if(!result)return '<p>Valgresultatet kunne ikke lastes.</p>';
+ const maxPercent=Math.max(...result.results.map(r=>r.percent),1);
  const rows=result.results.filter(r=>r.percent>0||r.seats>0).sort((a,b)=>b.percent-a.percent).map(r=>{
-  const p=parties[r.party],label={H:'Høyre',V:'Venstre',R:'Rødt'}[r.party]||r.party;
-  return `<tr><th scope="row"><i style="--party:${p.color}" aria-hidden="true"></i>${esc(label)}</th><td>${pct(r.percent)} %</td><td>${r.seats}</td></tr>`;
+  const p=parties[r.party]||parties.Andre,label={H:'Høyre',V:'Venstre',R:'Rødt'}[r.party]||r.party;
+  return `<div class="bar-row" aria-label="${esc(label)}: ${pct(r.percent)} prosent, ${r.seats} mandater"><span class="bar-label">${esc(label)}</span><div class="bar-track" aria-hidden="true"><div class="bar-fill" style="--party:${p.color};--value:${r.percent/maxPercent*100}%"></div></div><span class="bar-value">${pct(r.percent)}</span><span class="bar-seats">${r.seats}</span></div>`;
  }).join('');
- return `<section class="election-2023" aria-labelledby="election-heading"><h3 id="election-heading">Valgresultat 2023</h3><table><caption class="visually-hidden">Valgresultat 2023 i ${esc(result.name)}: oppslutning og mandater per parti</caption><thead><tr><th scope="col">Parti</th><th scope="col">Prosent</th><th scope="col">Mandater</th></tr></thead><tbody>${rows}</tbody><tfoot><tr><th scope="row">Totalt</th><td></td><td>${result.totalSeats}</td></tr></tfoot></table><a class="source" href="${esc(result.source)}" target="_blank" rel="noopener">Se valgresultatet hos Poll of polls ↗</a></section>`;
+ return `<section class="election-2023" aria-labelledby="election-heading"><h3 id="election-heading">Valgresultat 2023</h3><p class="visually-hidden">Valgresultat 2023 i ${esc(result.name)}: oppslutning og mandater per parti</p><div class="poll-table-head" aria-hidden="true"><span>Parti</span><span></span><span>Prosent</span><span>Mandater</span></div><div class="chart election-chart" role="group" aria-label="Valgresultat 2023 i ${esc(result.name)}">${rows}</div><div class="election-total"><span>Totalt</span><strong>${result.totalSeats}</strong></div><a class="source" href="${esc(result.source)}" target="_blank" rel="noopener">Se valgresultatet hos Poll of polls ↗</a></section>`;
 }
 
 async function start(){

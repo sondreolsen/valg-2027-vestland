@@ -45,7 +45,7 @@
 .county-result-head span:nth-child(3),.county-result-head span:nth-child(4){text-align:right}
 .county-result-row{font-size:.75rem}
 .county-result-row>span{color:#385367;font-weight:650}
-.county-result-row i{height:14px;overflow:hidden;border-radius:3px;background:#edf2f5}
+.county-result-row i{height:17px;overflow:hidden;border-radius:3px;background:#edf2f5}
 .county-result-row i b{display:block;width:var(--value);height:100%;border-radius:3px;background:var(--party)}
 .county-result-row strong,.county-result-row em{text-align:right;font-style:normal;font-variant-numeric:tabular-nums}
 .county-result-row strong{font-size:.73rem}
