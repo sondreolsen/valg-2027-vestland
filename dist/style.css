@@ -22,7 +22,7 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 @media(max-width:760px){.candidate-section{margin:18px 0 5px;padding:17px 13px;border-radius:11px}.candidate-heading{align-items:flex-start;flex-direction:column;gap:5px;margin-bottom:13px}.candidate-heading h2{font-size:1.25rem}.candidate-heading>p{font-size:.76rem}.candidate-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.candidate-photo,.candidate-placeholder{height:136px}.candidate-card-top{min-height:43px;padding:7px 9px}.candidate-logo{width:26px;height:26px;flex-basis:26px}.candidate-logo img{width:23px;height:23px}.candidate-logo img.party-h{width:26px;height:26px}.candidate-copy{padding:10px}.candidate-copy h3{font-size:.82rem}.candidate-copy p{font-size:.69rem}}
 @media(max-width:370px){.candidate-grid{grid-template-columns:1fr}.candidate-photo,.candidate-placeholder{height:180px}}
 
-.election-2023 .poll-table-head{margin-top:14px}.election-chart{gap:9px}.election-total,.poll-total{display:flex;justify-content:flex-end;gap:52px;border-top:1px solid var(--border);margin-top:7px;padding-top:9px;font-size:.8125rem;font-weight:650}.election-total strong,.poll-total strong{min-width:52px;text-align:right}
+.poll-head h3,.election-2023 h3{font-size:1.05rem}.election-2023 .poll-table-head{margin-top:0}.election-chart{gap:9px}.election-total,.poll-total{display:flex;justify-content:flex-end;gap:52px;border-top:1px solid var(--border);margin-top:7px;padding-top:9px;font-size:.8125rem;font-weight:650}.election-total strong,.poll-total strong{min-width:52px;text-align:right}
 
 /* Place Bergen candidates directly in the map column below the map. */
 .map-column{min-width:0}
