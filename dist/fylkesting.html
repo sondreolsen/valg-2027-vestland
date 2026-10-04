@@ -9,7 +9,7 @@
  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23102a43'/%3E%3Cpath d='M9 13l11 16 11-16' fill='none' stroke='%237ce0d0' stroke-width='5'/%3E%3C/svg%3E">
  <link rel="stylesheet" href="assets/leaflet.css">
  <link rel="stylesheet" href="style.css?v=brand-home-1">
- <link rel="stylesheet" href="fylkesting.css?v=county-1">
+ <link rel="stylesheet" href="fylkesting.css?v=county-top-1">
  <script defer src="assets/leaflet.js"></script>
  <script defer src="fylkesting.js?v=county-1"></script>
 </head>
@@ -20,22 +20,14 @@
   <a class="back-to-municipal" href="index.html?kommune=4601&amp;v=municipality-query-1">Kommunevalget</a>
  </header>
  <main id="county-content" class="county-main">
-  <section class="county-hero" aria-label="Vestland fylke">
+  <section class="county-dashboard" aria-label="Vestland fylke">
    <div class="county-map-card">
     <div class="section-label">VESTLAND</div>
     <div id="county-map" aria-label="Kart over Vestland fylke"></div>
     <p class="county-map-caption">Vestland fylke</p>
    </div>
-   <aside class="county-mayor-card">
-    <p class="county-kicker">Vestland</p>
-    <h2>Fylkesordfører</h2>
-    <div class="county-mayor-person"><div class="county-mayor-logo"><img src="assets/logos/sp-symbol.png" alt="Senterpartiet"></div><div><strong>Jon Askeland</strong><span>Senterpartiet</span></div></div>
-   </aside>
-  </section>
-
-  <section class="county-result" aria-labelledby="county-result-heading">
-   <div class="county-section-heading"><div><p class="county-kicker">FYLKESTINGSVALGET</p><h2 id="county-result-heading">Valgresultat 2023</h2></div><span class="result-badge">65 mandater</span></div>
-   <div class="county-result-layout">
+   <section class="county-result" aria-labelledby="county-result-heading">
+    <div class="county-section-heading"><div><p class="county-kicker">FYLKESTINGSVALGET</p><h2 id="county-result-heading">Valgresultat 2023</h2></div><span class="result-badge">65 mandater</span></div>
     <div class="county-result-bars" aria-label="Oppslutning i prosent ved fylkestingsvalget 2023">
      <div class="county-result-head" aria-hidden="true"><span>Parti</span><span></span><span>Prosent</span><span>Mandater</span></div>
      <div class="county-result-row" style="--party:#2678be;--value:100%"><span>Høyre</span><i><b></b></i><strong>22,8 %</strong><em>15</em></div>
@@ -48,10 +40,16 @@
      <div class="county-result-row" style="--party:#007d82;--value:18.4%"><span>Venstre</span><i><b></b></i><strong>4,2 %</strong><em>3</em></div>
      <div class="county-result-row" style="--party:#63932d;--value:17.1%"><span>MDG</span><i><b></b></i><strong>3,9 %</strong><em>3</em></div>
      <div class="county-result-row" style="--party:#a82329;--value:14%"><span>Rødt</span><i><b></b></i><strong>3,2 %</strong><em>2</em></div>
+     <div class="county-result-total"><span>Totalt</span><strong>65</strong></div>
     </div>
-    <div class="county-total"><span>Totalt</span><strong>65</strong><small>mandater</small></div>
-   </div>
-   <a class="county-source" href="https://www.pollofpolls.no/?cmd=Fylkesting&amp;do=visvalg&amp;valg=2023&amp;id=46" target="_blank" rel="noopener">Se valgresultatet hos Poll of polls ↗</a>
+    <a class="county-source" href="https://www.pollofpolls.no/?cmd=Fylkesting&amp;do=visvalg&amp;valg=2023&amp;id=46" target="_blank" rel="noopener">Se valgresultatet hos Poll of polls ↗</a>
+   </section>
+   <aside class="county-detail-card">
+    <p class="county-kicker">Vestland</p>
+    <h2>Vestland</h2>
+    <div class="county-mayor-person"><div class="county-mayor-logo"><img src="assets/logos/sp-symbol.png" alt="Senterpartiet"></div><div><small>Fylkesordfører</small><strong>Jon Askeland</strong><span>Senterpartiet</span></div></div>
+    <div class="county-empty-poll"><div class="county-empty-symbol" aria-hidden="true">▂ ▅ ▃</div><h3>Ingen måling registrert i 2026</h3><p>Vi fant ingen fylkestingsmåling fra 2026 for Vestland hos Poll of polls ved siste kontroll.</p><a href="https://www.pollofpolls.no/?cmd=Maling&amp;filter=fylke" target="_blank" rel="noopener">Se alle fylkestingsmålinger ↗</a></div>
+   </aside>
   </section>
 
   <section class="county-candidates" aria-labelledby="county-candidates-heading">
