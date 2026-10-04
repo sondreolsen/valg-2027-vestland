@@ -39,3 +39,9 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .poll-meta{font-size:.72rem;line-height:1.4;white-space:nowrap}
 @media(max-width:360px){.poll-meta{white-space:normal}}
 
+/* Link between the municipal and county-election views. */
+.title-row{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.county-link{display:inline-flex;align-items:center;border:1px solid #b7eadf;border-radius:999px;background:#d9f6ef;color:#125f5a;padding:6px 11px;font-size:.75rem;font-weight:750;text-decoration:none;white-space:nowrap;transition:background .15s,color .15s,transform .15s}
+.county-link:hover{background:#8ee1d2;color:#0b403e;transform:translateY(-1px)}
+@media(max-width:760px){.title-row{gap:9px}.county-link{padding:5px 9px;font-size:.67rem}}
+
