@@ -44,4 +44,7 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .county-link{display:inline-flex;align-items:center;border:1px solid #b7eadf;border-radius:999px;background:#d9f6ef;color:#125f5a;padding:6px 11px;font-size:.75rem;font-weight:750;text-decoration:none;white-space:nowrap;transition:background .15s,color .15s,transform .15s}
 .county-link:hover{background:#8ee1d2;color:#0b403e;transform:translateY(-1px)}
 @media(max-width:760px){.title-row{gap:9px}.county-link{padding:5px 9px;font-size:.67rem}}
+.brand-home{display:flex;align-items:center;gap:18px;color:inherit;text-decoration:none;border-radius:10px}
+.brand-home:hover h1{color:#8ee1d2}.brand-home:hover h1 span{color:#fff}
+@media(max-width:760px){.brand-home{gap:12px}}
 
