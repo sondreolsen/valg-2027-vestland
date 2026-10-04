@@ -62,7 +62,7 @@
 .county-candidate-placeholder{height:150px;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:9px;background:linear-gradient(145deg,#edf3f6,#e2ebef);color:#6d8595}
 .county-candidate-placeholder span{width:54px;height:54px;border:1px dashed #9fb4c0;border-radius:50%;display:grid;place-items:center;color:var(--party);background:#ffffffc7;font-size:.78rem;font-weight:850}
 .county-candidate-placeholder small{font-size:.68rem}
-.county-candidate-photo{height:150px;position:relative;overflow:hidden;background:#e2ebef}
+.county-candidate-photo{height:220px;position:relative;overflow:hidden;background:#e2ebef}
 .county-candidate-photo img{width:100%;height:100%;display:block;object-fit:cover;object-position:center}
 .county-candidate-photo-jeanette img{object-position:50% 20%}
 .county-candidate-photo-heen img{object-position:50% 35%}
