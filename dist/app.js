@@ -7,7 +7,7 @@ const logo=(p,party='')=>p.logo?`<img class="party-logo ${party==='H'?'party-h':
 
 const bergenCandidates=[
  {party:'H',label:'Høyre',acronym:'H',name:'Chris Jørgen Knudsen Rødland',status:'Valgt byrådslederkandidat · nr. 1 i listeinnstillingen',image:'assets/candidates/chris-rodland.jpg',credit:'Foto: Andrew M. S. Buller',source:'https://hoyre.no/bergen/aktuelt/komiteens-innstilling-er-klar/'},
- {party:'Ap',label:'Arbeiderpartiet',acronym:'Ap',name:'Linn Kristin Engø',status:'Innstilt på 1. plass · endelig valg 31. oktober',image:'assets/candidates/linn-engo.jpg',credit:'Foto: Hans Jørgen Brun',source:'https://apibergen.arbeiderpartiet.no/nyheter/nomini/'},
+ {party:'Ap',label:'Arbeiderpartiet',acronym:'Ap',name:'Toppkandidat ikke valgt ennå'},
  {party:'FrP',label:'Frp',acronym:'FrP',name:'Toppkandidat ikke valgt ennå',status:'Nominasjon pågår',source:'https://www.frp.no/nyheter/lokalt/bergen-frps-valgliste-2027-2031'},
  {party:'SV',label:'SV',acronym:'SV',name:'Toppkandidat ikke valgt ennå',status:'Nominasjonsmøte planlagt i januar',source:'https://bergen.sv.no/lokalvalget-2027/'},
  {party:'MDG',label:'MDG',acronym:'MDG',name:'Katrine Nødtvedt',status:'Innstilt som førstekandidat',image:'assets/candidates/katrine-nodtvedt.jpg',source:'https://bergen.mdg.no/nyhet/innstillingen-til-nominasjonsmotet-er-klar/'},
