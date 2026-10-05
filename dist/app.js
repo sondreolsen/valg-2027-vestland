@@ -15,13 +15,13 @@ const bergenCandidates=[
  {party:'V',label:'Venstre',acronym:'V',name:'Toppkandidat ikke valgt ennå',status:'Ikke offentlig avklart'},
  {party:'R',label:'Rødt',acronym:'R',name:'Toppkandidat ikke valgt ennå',status:'Ikke offentlig avklart'},
  {party:'Sp',label:'Senterpartiet',acronym:'Sp',name:'Toppkandidat ikke valgt ennå',status:'Ikke offentlig avklart'},
- {party:'KrF',label:'KrF',acronym:'KrF',name:'Toppkandidat ikke valgt ennå',status:'Ikke offentlig avklart'},
+ {party:'KrF',label:'KrF',acronym:'KrF',name:'Per Erik Gåskjenn',status:'Innstilt',image:'assets/candidates/per-erik-gaskjenn.jpg'},
  {party:'PP',label:'Pensjonistpartiet',acronym:'PP',name:'Toppkandidat ikke valgt ennå',status:'Ikke offentlig avklart'}
 ];
 
 function renderBergenCandidates(){
  const host=document.querySelector('#candidate-grid');
- host.innerHTML=bergenCandidates.map(c=>{const p=parties[c.party]||{name:c.label,color:c.party==='BL'?'#e77e23':c.party==='PP'?'#555d69':'#526779'};const mark=p.logo?`<span class="candidate-logo">${logo(p,c.party)}</span>`:`<span class="candidate-logo candidate-wordmark" style="--party:${p.color}">${esc(c.acronym)}</span>`;return `<article class="candidate-card" style="--party:${p.color}"><div class="candidate-card-top">${mark}<span class="candidate-party">${esc(c.label)}</span></div>${c.image?`<img class="candidate-photo" src="${c.image}" alt="${esc(c.name)}" loading="lazy">`:`<div class="candidate-placeholder" aria-hidden="true"><span class="placeholder-mark">${esc(c.acronym)}</span><span>${c.name==='Katrine Nødtvedt'?'Bilde kommer':'Kandidat ikke valgt'}</span></div>`}<div class="candidate-copy"><h3>${esc(c.name)}</h3>${c.credit?`<small>${esc(c.credit)}</small>`:''}</div></article>`}).join('');
+ host.innerHTML=bergenCandidates.map(c=>{const p=parties[c.party]||{name:c.label,color:c.party==='BL'?'#e77e23':c.party==='PP'?'#555d69':'#526779'};const mark=p.logo?`<span class="candidate-logo">${logo(p,c.party)}</span>`:`<span class="candidate-logo candidate-wordmark" style="--party:${p.color}">${esc(c.acronym)}</span>`;return `<article class="candidate-card" style="--party:${p.color}"><div class="candidate-card-top">${mark}<span class="candidate-party">${esc(c.label)}</span></div>${c.image?`<div class="candidate-photo-wrap"><img class="candidate-photo" src="${c.image}" alt="${esc(c.name)}" loading="lazy">${c.status==='Innstilt'?'<span class="candidate-status">Innstilt</span>':''}</div>`:`<div class="candidate-placeholder" aria-hidden="true"><span class="placeholder-mark">${esc(c.acronym)}</span><span>${c.name==='Katrine Nødtvedt'?'Bilde kommer':'Kandidat ikke valgt'}</span></div>`}<div class="candidate-copy"><h3>${esc(c.name)}</h3>${c.credit?`<small>${esc(c.credit)}</small>`:''}</div></article>`}).join('');
 }
 
 function renderElection(result){

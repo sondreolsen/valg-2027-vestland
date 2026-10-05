@@ -81,3 +81,7 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 @media(max-width:900px){.workspace{grid-template-columns:1fr}.detail{border-left:0;border-top:1px solid var(--border)}.detail-data-grid .bar-row,.detail-data-grid .poll-table-head{grid-template-columns:50px minmax(0,1fr) 42px 50px}}
 @media(max-width:760px){.municipality-summary{display:block;padding-bottom:15px}.municipality-summary h2{margin-bottom:2px}.municipality-summary .mayor{padding-top:0}.detail-data-grid{grid-template-columns:1fr;gap:22px}.detail-data-grid .election-2023{padding:20px 0 0;border-left:0;border-top:1px solid var(--border)}.detail-data-grid .bar-row,.detail-data-grid .poll-table-head{grid-template-columns:57px minmax(0,1fr) 45px 52px}}
 
+
+.candidate-photo-wrap{position:relative;height:158px;overflow:hidden}
+.candidate-photo-wrap .candidate-photo{height:100%}
+.candidate-status{position:absolute;left:10px;bottom:10px;padding:4px 8px;border-radius:5px;background:#102a43d9;color:#fff;font-size:.72rem;font-weight:750;letter-spacing:.02em}
