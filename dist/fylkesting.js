@@ -47,7 +47,7 @@ const boundary=L.geoJSON(geo,{style:f=>{const c=byCode.get(f.properties.countyCo
    ? [[60.7,2.0],[67.2,21.0]]
    : northCodes.has(code)
    ? [[63.5,8.5],[71.5,31.5]]
-   : [[57.8,4.5],[65.0,17.5]];
+   : [[56.5,3.0],[66.0,21.0]];
   map.fitBounds(regionalBounds,{padding:[4,4],maxZoom:8,animate:false});
   if(code!=='46')map.setZoom(Math.min(map.getZoom()+1,9),{animate:false});
   if(!northCodes.has(code))map.panBy([-90,0],{animate:false});
