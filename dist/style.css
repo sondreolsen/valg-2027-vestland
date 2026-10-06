@@ -502,6 +502,9 @@ main {
   font-size:.82rem;
   margin:0
 }
+.poll-panel .poll-head,.change-panel .poll-head {
+  margin:0
+}
 .change-panel .change-chart {
   gap:8px
 }
