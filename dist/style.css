@@ -151,4 +151,5 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .picker label,.county-picker label{font-size:0}
 .picker label select,.county-picker label select{font-size:1rem}
 @media(max-width:760px){.picker label select{font-size:.7rem}.county-picker label select{font-size:.86rem}}
+@media(max-width:760px){body:not(.county-page) header>.picker select{max-width:120px}}
 @media(min-width:761px){.party-filter{top:16px;left:16px;right:auto;width:max-content;max-width:calc(100% - 72px);gap:6px;padding:6px 9px}.party-filter button{width:45px;height:45px;flex-basis:45px;padding:4px}.party-filter button img{width:34px;height:34px}}
