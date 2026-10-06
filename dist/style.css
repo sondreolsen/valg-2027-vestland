@@ -122,3 +122,6 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 
 .reset-map{top:16px;height:40px;padding:4px 13px}.party-filter{min-height:40px;height:40px}@media(max-width:760px){.reset-map{top:10px;height:40px}.party-filter{top:10px;left:140px;width:326px;max-width:calc(100% - 152px);height:40px;min-height:40px}.map-shell{padding-top:45px}}
 
+
+@media(min-width:761px){header{display:flex;justify-content:flex-start;align-items:center;gap:24px}header>.brand{flex:0 0 auto}header>.site-nav{flex:0 0 auto;margin:0}header>.picker,header>.county-picker{flex:0 0 auto;grid-column:auto;justify-self:auto;margin:0}}
+
