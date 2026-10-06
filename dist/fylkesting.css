@@ -120,3 +120,5 @@
 .county-main{max-width:1504px}
 .county-main{max-width:none;padding-left:28px;padding-right:28px}@media(max-width:760px){.county-main{padding-left:14px;padding-right:14px}}
 .county-dashboard{gap:14px}
+/* Keep the county map the same width as the municipality map on desktop. */
+@media(min-width:1121px){.county-main{max-width:1504px;padding-left:32px;padding-right:32px}.county-dashboard{grid-template-columns:minmax(0,1fr) 620px;gap:14px}}
