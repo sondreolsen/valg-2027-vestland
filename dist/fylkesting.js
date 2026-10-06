@@ -49,7 +49,7 @@ const boundary=L.geoJSON(geo,{style:f=>{const c=byCode.get(f.properties.countyCo
    ? [[63.5,8.5],[71.5,31.5]]
    : [[56.5,3.0],[66.0,21.0]];
   map.fitBounds(regionalBounds,{padding:[4,4],maxZoom:8,animate:false});
-  if(code!=='46')map.setZoom(Math.min(map.getZoom()+1,9),{animate:false});
+  if(code==='46')map.setZoom(Math.max(map.getZoom()-1,3),{animate:false});else map.setZoom(Math.min(map.getZoom()+1,9),{animate:false});
   if(!northCodes.has(code))map.panBy([-90,code==='46'?70:0],{animate:false});
  }
  function renderMarkers(){for(const c of counties){const p=partyMeta[c.party]||partyMeta.Andre;const marker=L.marker([c.point[1],c.point[0]],{icon:L.divIcon({className:'county-marker',html:`<span class="county-marker-inner" title="${esc(c.name)}">${logo(p)}</span>`,iconSize:[42,42],iconAnchor:[21,21]}),keyboard:true}).addTo(map);marker.on('click',()=>selectCounty(c.code,true));}}
