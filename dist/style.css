@@ -518,7 +518,7 @@ main {
   grid-template-columns:55px minmax(0,1fr) 50px 50px 58px
 }
 .change-panel .bar-track {
-  opacity:.7
+  opacity:1
 }
 .candidate-section,.county-candidates {
   grid-column:1/-1;
