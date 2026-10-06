@@ -29,6 +29,13 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .candidate-section{margin:0;padding:20px 16px 22px;background:#fff;border:0;border-top:1px solid var(--border);border-radius:0;box-shadow:none}
 @media(max-width:760px){.map-column{display:contents}.map-shell{order:1}.detail{order:2}.candidate-section{order:3}}
 @media(min-width:761px){.map-column{display:contents}.map-shell{grid-column:1;grid-row:1}.detail{grid-column:2;grid-row:1}.candidate-section{grid-column:1/-1;grid-row:2}}
+.party-filter{position:absolute;z-index:500;top:16px;left:150px;right:58px;display:flex;align-items:center;gap:5px;min-height:38px;padding:4px 7px;background:#ffffffed;border:1px solid #d6e0e5;border-radius:9px;box-shadow:0 3px 12px #17354b14;overflow-x:auto}
+.party-filter button{width:30px;height:30px;flex:0 0 30px;display:grid;place-items:center;padding:3px;border:1px solid #d5e0e5;border-radius:50%;background:#fff;cursor:pointer;transition:opacity .15s,filter .15s,transform .15s}
+.party-filter button:hover{transform:translateY(-1px)}
+.party-filter button.is-off{opacity:.3;filter:grayscale(1)}
+.party-filter button img{width:23px;height:23px;object-fit:contain}
+.party-filter button .local{font-size:.64rem;font-weight:800}
+@media(max-width:760px){.party-filter{top:62px;left:12px;right:12px}.map-shell{padding-top:45px}}
 
 /* Show Poll of polls mandate estimates beside each percentage. */
 .bar-row{grid-template-columns:50px minmax(0,1fr) 42px 52px}
