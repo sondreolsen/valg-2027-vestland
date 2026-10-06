@@ -123,5 +123,5 @@
 /* Keep the county map the same width as the municipality map on desktop. */
 @media(min-width:1121px){.county-main{max-width:1504px;padding-left:32px;padding-right:32px}.county-dashboard{grid-template-columns:minmax(0,1fr) 620px;gap:14px}}
 /* Keep two candidate cards side by side on all mobile widths. */
-@media(max-width:760px){.county-candidate-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.county-candidate h3{font-size:.8rem;padding:10px 9px 11px}}
-@media(max-width:420px){.county-candidate-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.county-candidate-party{gap:6px;padding:7px 8px;font-size:.68rem}.county-candidate-party img{width:24px;height:24px}.county-candidate-party img.county-h-logo{width:28px;height:20px}.county-candidate h3{font-size:.74rem;padding:9px 8px 10px}}
+@media(max-width:760px){.county-candidate-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px}.county-candidate h3{font-size:.8rem;padding:10px 9px 11px}}
+@media(max-width:420px){.county-candidate-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:8px}.county-candidate-party{gap:6px;padding:7px 8px;font-size:.68rem}.county-candidate-party img{width:24px;height:24px}.county-candidate-party img.county-h-logo{width:28px;height:20px}.county-candidate h3{font-size:.74rem;padding:9px 8px 10px}}
