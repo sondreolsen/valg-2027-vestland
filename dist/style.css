@@ -498,6 +498,22 @@ main {
   line-height:1.5;
   margin:12px 0 0
 }
+.change-panel .poll-head h3 {
+  font-size:.82rem;
+  margin:0
+}
+.change-panel .change-chart {
+  gap:8px
+}
+.change-panel .bar-track {
+  opacity:1
+}
+.change-panel .poll-total {
+  justify-content:space-between
+}
+.change-panel .poll-total strong {
+  margin-left:auto
+}
 .change-panel .bar-row,.change-panel .poll-table-head {
   grid-template-columns:55px minmax(0,1fr) 50px 50px 58px
 }
