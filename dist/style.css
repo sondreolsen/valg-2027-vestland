@@ -138,5 +138,7 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 @media(min-width:761px){.workspace .map-shell::after{width:18px;background:#eef4f6;border-left:1px solid #dce5eb}}
 @media(min-width:901px) and (max-width:1180px){.workspace{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
 @media(min-width:761px){header{padding-top:1px;padding-bottom:1px}}
+@media(min-width:761px){header{padding-top:3px;padding-bottom:3px}.brand-mark img{transform:none}}
+.brand-mark img{transform:none}
 /* Match the county page spacing: one 14px gap between the two cards. */
 @media(min-width:761px){body:not(.county-page) .workspace{column-gap:14px!important}body:not(.county-page) .workspace .map-shell{width:100%;margin-right:0;border-right:0!important;border-radius:15px!important;background:#fff!important}body:not(.county-page) .workspace #map{width:100%;border-radius:15px!important}body:not(.county-page) .workspace .map-shell::after{display:none}}
