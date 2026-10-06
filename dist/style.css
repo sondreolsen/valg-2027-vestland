@@ -136,3 +136,4 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 @media(min-width:761px){.workspace .map-shell{border-right:14px solid #f4f7fa!important;border-radius:15px 0 0 15px}.workspace #map{width:100%;border-radius:15px 0 0 15px}}
 @media(min-width:761px){.workspace .map-shell::after{content:"";position:absolute;z-index:1000;top:0;right:0;width:14px;height:100%;background:#f4f7fa;pointer-events:none}}
 @media(min-width:761px){.workspace .map-shell::after{width:18px;background:#eef4f6;border-left:1px solid #dce5eb}}
+@media(min-width:901px) and (max-width:1180px){.workspace{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
