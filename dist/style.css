@@ -160,5 +160,5 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .poll-panel .bar-change{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
 @media(max-width:900px){.poll-panel .poll-table-head,.poll-panel .bar-row{grid-template-columns:50px minmax(0,1fr) 42px 52px 50px;gap:5px}}
 @media(max-width:760px){.poll-panel .poll-table-head,.poll-panel .bar-row{grid-template-columns:57px minmax(0,1fr) 45px 52px 52px;gap:4px}.poll-panel .bar-change{font-size:.76rem}}
-@media(max-width:760px){.county-page header>.county-picker{justify-self:start;width:calc((100% - 6px)/2)}.county-page header>.county-picker select{width:100%;height:30px;padding:4px 18px 4px 7px}}
+@media(max-width:760px){.county-page header>.county-picker{justify-self:start;width:calc((100% - 6px)/2)}.county-page header>.county-picker select{width:100%;min-width:0!important;height:30px;padding:4px 18px 4px 7px}}
 @media(min-width:761px){.party-filter{top:16px;left:16px;right:auto;width:max-content;max-width:calc(100% - 72px);gap:6px;padding:6px 9px}.party-filter button{width:45px;height:45px;flex-basis:45px;padding:4px}.party-filter button img{width:34px;height:34px}}
