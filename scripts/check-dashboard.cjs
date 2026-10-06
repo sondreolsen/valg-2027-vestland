@@ -8,6 +8,7 @@ async function check() {
   const browser = await chromium.launch({headless:true, ...(fs.existsSync(chrome)?{executablePath:chrome}:{})});
   fs.mkdirSync('research/dashboard-qa', {recursive:true});
   const reports = [];
+  const population = JSON.parse(fs.readFileSync('dist/data/population.json','utf8'));
   try {
     for (const [width,height] of [[1440,900],[1920,1080],[390,844],[360,800],[768,1024]]) {
       for (const county of [false,true]) {
@@ -25,6 +26,10 @@ async function check() {
           pageHeight:document.documentElement.scrollHeight,
           logo:document.querySelector('.brand-mark img').complete && document.querySelector('.brand-mark img').naturalWidth>0,
         }));
+        const populationValue = county ? population.counties['46'] : population.municipalities['4601'];
+        const renderedCount = await page.locator('.area-summary .population').getAttribute('aria-label');
+        if (!renderedCount.startsWith(populationValue.toLocaleString('nb-NO')+' innbyggere')) errors.push('Initial population mismatch');
+        if (!renderedCount.includes('1. januar 2026')) errors.push('Population reference date missing');
         const prefix = `research/dashboard-qa/${county?'county':'municipal'}-${width}`;
         await page.screenshot({path:`${prefix}.png`, fullPage:true});
         if (width<640) {
@@ -55,6 +60,7 @@ async function check() {
           await page.selectOption('#county','18');
           await page.selectOption('#municipality','1826');
           await page.waitForFunction(() => document.querySelector('.area-summary h2').textContent==='Hattfjelldal');
+          if (!(await page.locator('.population').getAttribute('aria-label')).startsWith(population.municipalities['1826'].toLocaleString('nb-NO'))) errors.push('Population did not follow municipality');
           if (await page.locator('.candidate-card').count()) errors.push('Stale candidates');
           if (!await page.locator('.candidate-empty').count()) errors.push('Missing candidates state absent');
           const matching = await page.evaluate(() => Dashboard.electionBaseline({results:[{party:'Arbeiderpartiet',percent:18.5},{party:'Høyre',percent:26.5}]},parties));
@@ -64,6 +70,7 @@ async function check() {
           if (await page.locator('.candidate-card').count()!==11) errors.push('Bergen candidates failed to restore');
         } else {
           await page.selectOption('#county-select','18');
+          if (!(await page.locator('.population').getAttribute('aria-label')).startsWith(population.counties['18'].toLocaleString('nb-NO'))) errors.push('Population did not follow county');
           await page.selectOption('#county-select','46');
           if (await page.locator('.county-candidate-photo').count()!==4) errors.push('Vestland candidates failed to restore');
         }
