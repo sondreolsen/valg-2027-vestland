@@ -1,4 +1,14 @@
 {
+  "0301": {
+    "date": "2026-09-21",
+    "institute": "Respons Analyse",
+    "client": "Respons for Aftenposten",
+    "sample": 806,
+    "fieldwork": "2026-09-10 – 2026-09-17",
+    "source": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5704",
+    "values": {"Ap": 22.2, "H": 22.5, "FrP": 14.6, "SV": 10, "Sp": 0.7, "KrF": 0.9, "V": 7.4, "MDG": 11.2, "R": 9.2, "Andre": 1.3},
+    "seats": {"Ap": 13, "H": 14, "FrP": 9, "SV": 6, "Sp": 0, "KrF": 0, "V": 4, "MDG": 7, "R": 6, "Andre": 0}
+  },
   "1103": {
     "date": "2026-06-03",
     "institute": "",

@@ -25,7 +25,7 @@ const fmt=v=>Number(v||0).toLocaleString('nb-NO',{minimumFractionDigits:1,maximu
 const logo=p=>p?.logo?`<img src="assets/logos/${p.logo}" alt="${esc(p.name)}">`:`<span class="local">A</span>`;
 
 async function init(){
- const [counties,geo,elections,polls]=await Promise.all(['counties.json','counties.geojson','county-elections-2023.json','county-polls.json'].map(async f=>{const r=await fetch('data/'+f+'?v=county-national-3');if(!r.ok)throw new Error('Data kunne ikke lastes');return r.json()}));
+ const [counties,geo,elections,polls]=await Promise.all(['counties.json','counties.geojson','county-elections-2023.json','county-polls.json'].map(async f=>{const r=await fetch('data/'+f+'?v=county-national-4');if(!r.ok)throw new Error('Data kunne ikke lastes');return r.json()}));
  const byCode=new Map(counties.map(c=>[c.code,c]));let selected='46';
  const countySelect=document.querySelector('#county-select');countySelect.innerHTML=counties.slice().sort((a,b)=>a.name.localeCompare(b.name,'nb')).map(c=>`<option value="${c.code}">${esc(c.name)}</option>`).join('');countySelect.value=selected;
  const map=L.map('county-map',{zoomControl:true,scrollWheelZoom:true,dragging:true,attributionControl:true});L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors'}).addTo(map);

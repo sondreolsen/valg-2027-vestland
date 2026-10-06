@@ -1,4 +1,11 @@
 {
+  "03": {
+    "date": "21. september 2026",
+    "client": "Respons for Aftenposten",
+    "source": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5704",
+    "values": {"Ap": 22.2, "H": 22.5, "Frp": 14.6, "SV": 10, "Sp": 0.7, "KrF": 0.9, "V": 7.4, "MDG": 11.2, "R": 9.2, "Andre": 1.3},
+    "seats": {"Ap": 13, "H": 14, "Frp": 9, "SV": 6, "Sp": 0, "KrF": 0, "V": 4, "MDG": 7, "R": 6, "Andre": 0}
+  },
   "15": {
     "date": "25. september 2026",
     "client": "Respons Analyse for Sunnmørsposten / Tidens Krav / Romsdals Budstikke",
