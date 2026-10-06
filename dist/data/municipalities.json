@@ -1,1 +1,5000 @@
-[{"id":"4635","name":"Gulen","mayor":"May-Lynn Osland","party":"Ap","source":"https://www.arbeiderpartiet.no/ordforere/","point":[5.162780413749,60.96577234674],"note":null},{"id":"4636","name":"Solund","mayor":"Gunn Åmdal Mongstad","party":"Sp","source":"https://www.solund.kommune.no/politikk-og-administrasjon/politikk/kommunestyret/","point":[4.516768539298,61.039318024882],"note":null},{"id":"4637","name":"Hyllestad","mayor":"Kjell Eide","party":"Ap","source":"https://www.hyllestad.kommune.no/politikk-og-administrasjon/politikk/alt-om-politikk/ordforar-og-kommunestyret/","point":[5.249621033577,61.168388164347],"note":null},{"id":"4638","name":"Høyanger","mayor":"Petter Sortland","party":"Ap","source":"https://www.hoyanger.kommune.no/politikk-og-administrasjon/politikk/politisk-styring/","point":[5.814139092245,61.125482064585],"note":null},{"id":"4639","name":"Vik","mayor":"Roy Egil Stadheim","party":"Ap","source":"https://www.vik.kommune.no/om-kommunen/politikk/ordforaren/","point":[6.594104964369,61.034966366557],"note":null},{"id":"4640","name":"Sogndal","mayor":"Stig Ove Ølmheim","party":"Ap","source":"https://www.sogndal.kommune.no/kommunestyret.555916.nn.html","point":[6.720364623397,61.329791004608],"note":null},{"id":"4641","name":"Aurland","mayor":"Kjell Bøe Bjørgum","party":"Ap","source":"https://www.arbeiderpartiet.no/ordforere/","point":[7.209532422947,60.870893420203],"note":null},{"id":"4642","name":"Lærdal","mayor":"Audun Mo","party":"Ap","source":"https://www.arbeiderpartiet.no/ordforere/","point":[7.803286493957,61.038613548832],"note":null},{"id":"4643","name":"Årdal","mayor":"Christian Sønstlien","party":"Ap","source":"https://www.arbeiderpartiet.no/ordforere/","point":[7.804934589703,61.286040772797],"note":null},{"id":"4644","name":"Luster","mayor":"Andreas Wollnick Wiese","party":"Sp","source":"https://www.luster.kommune.no/tenester/politikk/politisk-styring/ordforar/","point":[7.569214807024,61.518948461117],"note":null},{"id":"4645","name":"Askvoll","mayor":"Ole André Klausen","party":"H","source":"https://www.askvoll.kommune.no/politikk-og-administrasjon/politikk/ordforar-og-kommunestyret/","point":[4.684781223662,61.354593012885],"note":null},{"id":"4646","name":"Fjaler","mayor":"Leif Jarle Espedal","party":"Ap","source":"https://www.fjaler.kommune.no/politikk-og-administrasjon/politikk/politisk-styring/ordforar-og-varaordforar/","point":[5.479255971109,61.280568301399],"note":null},{"id":"4647","name":"Sunnfjord","mayor":"Jenny Følling","party":"Sp","source":"https://sunnfjord.kommune.no/politikk/politisk-styring/ordforar-og-varaordforar/","point":[6.049172131818,61.468582326324],"note":null},{"id":"4648","name":"Bremanger","mayor":"Anne Kristin Førde","party":"Ap","source":"https://bremanger.kommune.no/tenester/politikk-og-innsyn/politikk/ordforar-og-varaordforar/","point":[5.05713320724,61.848102879957],"note":null},{"id":"4649","name":"Stad","mayor":"Judith Kvåle","party":"Ap","source":"https://stad.arbeiderpartiet.no/politikere/106039-judith-kvale","point":[5.150720202424,62.109787689877],"note":null},{"id":"4650","name":"Gloppen","mayor":"Arnar Kvernevik","party":"Ap","source":"https://gloppen.kommune.no/politikk-og-medverknad/politikk/slik-vert-gloppen-styrt/","point":[6.177926400147,61.729652636424],"note":null},{"id":"4651","name":"Stryn","mayor":"Per Kjøllesdal","party":"Sp","source":"https://stryn.kommune.no/politikk-og-organisasjon/politikk/","point":[6.802968515472,61.821806080305],"note":null},{"id":"4602","name":"Kinn","mayor":"Bengt Solheim-Olsen","party":"H","source":"https://kinn.kommune.no/politikk/ordforar-og-varaordforar/","point":[4.894710999429,61.62047788893],"note":null},{"id":"4601","name":"Bergen","mayor":"Marit Warncke","party":"H","source":"https://www.bergen.kommune.no/politikk/ordforeren/ordforer-marit-warncke","point":[5.379238501004,60.35609130261],"note":null},{"id":"4611","name":"Etne","mayor":"Mette Heidi Bergsvåg Ekrheim","party":"Sp","source":"https://www.etne.kommune.no/politikk/ordforar/","point":[6.29499451579,59.798590147288],"note":null},{"id":"4612","name":"Sveio","mayor":"André Mundal Haukås","party":"H","source":"https://hoyre.no/personprofiler/andre-mundal-haukas/","point":[5.411756067854,59.613706720177],"note":null},{"id":"4613","name":"Bømlo","mayor":"Morten Helland","party":"KrF","source":"https://www.bomlo.kommune.no/politikk/ordforar/ordforar/","point":[5.057203515345,59.717523509924],"note":null},{"id":"4614","name":"Stord","mayor":"Sigbjørn Framnes","party":"FrP","source":"https://www.stord.kommune.no/tenester/politikk-og-val/kommunestyret-rad-og-utval/kommunestyret","point":[5.488365330389,59.825021206424],"note":null},{"id":"4615","name":"Fitjar","mayor":"Wenche Tislevoll","party":"H","source":"https://www.fitjar.kommune.no/tenester/politikk/ordforaren-si-side","point":[5.298614051115,59.90274798299],"note":null},{"id":"4616","name":"Tysnes","mayor":"Synnøve Bakke","party":"Ap","source":"https://tysnes.arbeiderpartiet.no/representanter/138146-synnve-bakke","point":[5.529400575312,59.99162554565],"note":null},{"id":"4617","name":"Kvinnherad","mayor":"Vegard Bjørnevik","party":"H","source":"https://www.kvinnherad.kommune.no/tenester/politikk/ordforar-og-varaordforar","point":[6.032513304442,59.953172691564],"note":null},{"id":"4618","name":"Ullensvang","mayor":"Tor Helge Haara Tjemsland","party":"Ap","source":"https://ullensvang.kommune.no/tenester/politikk-administrasjon-og-okonomi/politikk/ordforar/","point":[6.934981886794,60.075759840213],"note":null},{"id":"4619","name":"Eidfjord","mayor":"Timo Knoch","party":"Ap","source":"https://www.eidfjord.kommune.no/politikk-og-administrasjon/politikk/ordforar-og-varaordforar/","point":[7.401214485645,60.345658277635],"note":null},{"id":"4620","name":"Ulvik","mayor":"Jens Olav Holven","party":"Sp","source":"https://www.ulvik.kommune.no/politikk/ordforar/","point":[7.225060670553,60.604990767175],"note":null},{"id":"4621","name":"Voss","mayor":"Tonje Ljones Såkvitne","party":"Sp","source":"https://voss.herad.no/politikk-og-administrasjon/politikk-og-innsyn/ordforar-voss-herad/","point":[6.409656821009,60.686478036747],"note":null},{"id":"4622","name":"Kvam","mayor":"Torgeir Næss","party":"Ap","source":"https://www.kvam.no/politikk-og-organisasjon/politikk/ordforar/","point":[6.084743780553,60.31573142815],"note":null},{"id":"4623","name":"Samnanger","mayor":"Karl Bård Kollbotn","party":"FrP","source":"https://www.samnanger.kommune.no/artikkel/formannskapet-utval-raad-nemnder-mm","point":[5.782025945622,60.405973215031],"note":null},{"id":"4624","name":"Bjørnafjorden","mayor":"Terje Søviknes","party":"FrP","source":"https://bjornafjorden.kommune.no/politikk-og-organisasjon/politisk-organisering/","point":[5.597638725873,60.193616496657],"note":null},{"id":"4631","name":"Alver","mayor":"Sara Sekkingstad","party":"Sp","source":"https://www.alver.kommune.no/","point":[5.230793739767,60.670719890784],"note":null},{"id":"4632","name":"Austrheim","mayor":"Morten Håkon Sognnes","party":"H","source":"https://hoyre.no/personprofiler/morten-hakon-sognnes/","point":[4.872126286435,60.793917333726],"note":null},{"id":"4633","name":"Fedje","mayor":"Stian Herøy","party":"H","source":"https://www.fjord1.no/aktuelt/Vaksendaap-paa-Fedje-og-Boemlo","point":[4.481156095232,60.790513537131],"note":null},{"id":"4634","name":"Masfjorden","mayor":"Erlend Kvamsdal","party":"H","source":"https://hoyre.no/personprofiler/erlend-kvamsdal/","point":[5.402985536413,60.844224202246],"note":null},{"id":"4629","name":"Modalen","mayor":"Linda Neset","party":"SOL","source":"https://www.senterpartiet.no/lokallag-og-fylkeslag/hordaland/modalen","point":[5.961362390321,60.879673368399],"note":null},{"id":"4630","name":"Osterøy","mayor":"Lars Fjeldstad","party":"Sp","source":"https://www.senterpartiet.no/folk?f=ordforere","point":[5.501469427349,60.570878474864],"note":null},{"id":"4628","name":"Vaksdal","mayor":"Hege Eide Vik","party":"Sp","source":"https://www.senterpartiet.no/lokallag-og-fylkeslag/hordaland/vaksdal","point":[5.767073376731,60.673503286951],"note":null},{"id":"4627","name":"Askøy","mayor":"Yngve Magnus Tvedt Fosse","party":"H","source":"https://www.askoy.kommune.no/politikk-og-innsyn/politikk/politiske-utvalg/kommunestyret","point":[5.083624337483,60.507110665939],"note":null},{"id":"4626","name":"Øygarden","mayor":"Tom Georg Indrevik","party":"H","source":"https://www.oygarden.kommune.no/kontakt-oss/kontaktpersonar/","point":[4.731042406684,60.42072497487],"note":null},{"id":"4625","name":"Austevoll","mayor":"Bente Kari Sletten Taranger","party":"H","source":"https://www.vg.no/nyheter/i/Oo5exq/gullkysten-kan-gleppe","point":[4.943835274998,60.054552276015],"note":null}]
+[
+  {
+    "id": "1826",
+    "name": "Hattfjelldal",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Sølvi Andersen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.015176470588235,
+      65.5294117647059
+    ],
+    "note": null
+  },
+  {
+    "id": "1820",
+    "name": "Alstahaug",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Peter Talseth",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.417538461538463,
+      65.90446153846152
+    ],
+    "note": null
+  },
+  {
+    "id": "5601",
+    "name": "Alta",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Monica Nielsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      22.971807692307696,
+      70.04703846153846
+    ],
+    "note": null
+  },
+  {
+    "id": "3428",
+    "name": "Alvdal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Mona Murud",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.48316666666667,
+      62.04141666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "4631",
+    "name": "Alver",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Sara Hamre Sekkingstad",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.184187499999999,
+      60.7185625
+    ],
+    "note": null
+  },
+  {
+    "id": "1871",
+    "name": "Andøy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Kjell-Are Johansen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      15.775583333333335,
+      69.13316666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "3124",
+    "name": "Aremark",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Håkon Tolsby",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.645199999999999,
+      59.23479999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "4203",
+    "name": "Arendal",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Robert C. Nordli",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.731846153846154,
+      58.46815384615385
+    ],
+    "note": null
+  },
+  {
+    "id": "3203",
+    "name": "Asker",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Lene Conradi",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.469416666666667,
+      59.67558333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "4645",
+    "name": "Askvoll",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Ole André Klausen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.871857142857142,
+      61.361857142857154
+    ],
+    "note": null
+  },
+  {
+    "id": "4627",
+    "name": "Askøy",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Yngve Magnus Fosse",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.135333333333334,
+      60.452
+    ],
+    "note": null
+  },
+  {
+    "id": "1547",
+    "name": "Aukra",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Helge Kjøll jr.",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.699199999999999,
+      62.92229999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "1576",
+    "name": "Aure",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Hanne-Berit Brekken",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.343181818181817,
+      63.25590909090909
+    ],
+    "note": null
+  },
+  {
+    "id": "4641",
+    "name": "Aurland",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Kjell Bøe Bjørgum",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.130866666666666,
+      60.89279999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "3226",
+    "name": "Aurskog-Høland",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Roger Evjen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.63,
+      59.79366666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "4625",
+    "name": "Austevoll",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Bente Kari Sletten Taranger",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.9876249999999995,
+      60.0665
+    ],
+    "note": null
+  },
+  {
+    "id": "4632",
+    "name": "Austrheim",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Morten Sognnes",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.899428571428572,
+      60.79228571428571
+    ],
+    "note": null
+  },
+  {
+    "id": "1554",
+    "name": "Averøy",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Ingrid Ovidie Rangønes",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.323666666666666,
+      63.12477777777777
+    ],
+    "note": null
+  },
+  {
+    "id": "5532",
+    "name": "Balsfjord",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Laila Monica Johannessen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      19.057,
+      69.357
+    ],
+    "note": null
+  },
+  {
+    "id": "4012",
+    "name": "Bamble",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Petter Jørgensen",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.5161,
+      59.02689999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "5520",
+    "name": "Bardu",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Toralf Heimdal",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      18.644608695652174,
+      68.74247826086958
+    ],
+    "note": null
+  },
+  {
+    "id": "1839",
+    "name": "Beiarn",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Andrè Kristoffersen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.5809,
+      66.83824999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "4601",
+    "name": "Bergen",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Marit Warncke",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.3304285714285715,
+      60.35985714285714
+    ],
+    "note": null
+  },
+  {
+    "id": "5630",
+    "name": "Berlevåg",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Rolf Laupstad",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      29.00066666666667,
+      70.76133333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "1811",
+    "name": "Bindal",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Frode Næsvold",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.152130434782608,
+      65.16404347826088
+    ],
+    "note": null
+  },
+  {
+    "id": "4216",
+    "name": "Birkenes",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Arild Windsland",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.173333333333334,
+      58.481666666666676
+    ],
+    "note": null
+  },
+  {
+    "id": "1114",
+    "name": "Bjerkreim",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Tone Vaule",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.114615384615385,
+      58.655923076923074
+    ],
+    "note": null
+  },
+  {
+    "id": "4624",
+    "name": "Bjørnafjorden",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Terje Søviknes",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.645,
+      60.20375000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "1804",
+    "name": "Bodø",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Odd Emil Ingebrigtsen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.395499999999998,
+      67.27776923076922
+    ],
+    "note": null
+  },
+  {
+    "id": "1145",
+    "name": "Bokn",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Egil Våge",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.466285714285715,
+      59.19314285714285
+    ],
+    "note": null
+  },
+  {
+    "id": "4648",
+    "name": "Bremanger",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Anne Kristin Førde",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.2146923076923075,
+      61.81053846153846
+    ],
+    "note": null
+  },
+  {
+    "id": "1813",
+    "name": "Brønnøy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Siv Aglen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.238666666666665,
+      65.45700000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "4220",
+    "name": "Bygland",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Runar Granheim",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.55761111111111,
+      58.86983333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "4222",
+    "name": "Bykle",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Hans Blattmann",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.1853750000000005,
+      59.41274999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "5632",
+    "name": "Båtsfjord",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Øyvind Hauken",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      29.866285714285716,
+      70.50557142857143
+    ],
+    "note": null
+  },
+  {
+    "id": "3201",
+    "name": "Bærum",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Lisbeth Hammer Krog",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.488555555555555,
+      59.937444444444445
+    ],
+    "note": null
+  },
+  {
+    "id": "1867",
+    "name": "Bø",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Sture Pedersen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.344666666666663,
+      68.72355555555556
+    ],
+    "note": null
+  },
+  {
+    "id": "4613",
+    "name": "Bømlo",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Morten Helland",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.981333333333333,
+      59.70344444444444
+    ],
+    "note": null
+  },
+  {
+    "id": "5628",
+    "name": "Tana",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Jon Erland Balto",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      27.58664,
+      70.17912000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "5512",
+    "name": "Tjeldsund",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Robin Ridderseth",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      16.565500000000004,
+      68.55107142857142
+    ],
+    "note": null
+  },
+  {
+    "id": "3431",
+    "name": "Dovre",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Magne Vorkinn",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.452200000000001,
+      62.093333333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "3301",
+    "name": "Drammen",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Kjell Arne Hermansen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.225249999999999,
+      59.674625000000006
+    ],
+    "note": null
+  },
+  {
+    "id": "4016",
+    "name": "Drangedal",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Stina Anlaug Sætre",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.946533333333333,
+      59.10946666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "5528",
+    "name": "Dyrøy",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Kjell-Sverre Myrvoll",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      17.641000000000002,
+      69.01881818181818
+    ],
+    "note": null
+  },
+  {
+    "id": "1827",
+    "name": "Dønna",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "John Erik Skjellnes Johansen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.3221,
+      66.1747
+    ],
+    "note": null
+  },
+  {
+    "id": "4619",
+    "name": "Eidfjord",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Timo Knoch",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.214642857142857,
+      60.36271428571428
+    ],
+    "note": null
+  },
+  {
+    "id": "3416",
+    "name": "Eidskog",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Kamilla Thue",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.976111111111113,
+      59.99933333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "3240",
+    "name": "Eidsvoll",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Nina Kristengård",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.175583333333334,
+      60.41866666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "1101",
+    "name": "Eigersund",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Anja Hovland",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.038444444444445,
+      58.462555555555554
+    ],
+    "note": null
+  },
+  {
+    "id": "3420",
+    "name": "Elverum",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Lillian Skjærvik",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.824166666666665,
+      60.9845
+    ],
+    "note": null
+  },
+  {
+    "id": "3220",
+    "name": "Enebakk",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Christopher Leiknes",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.059999999999999,
+      59.796888888888894
+    ],
+    "note": null
+  },
+  {
+    "id": "3425",
+    "name": "Engerdal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Tor Erik Skramstad",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.884266666666665,
+      61.98313333333332
+    ],
+    "note": null
+  },
+  {
+    "id": "4611",
+    "name": "Etne",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Mette Heidi Bergsvåg Ekrheim",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.138230769230768,
+      59.76069230769232
+    ],
+    "note": null
+  },
+  {
+    "id": "3450",
+    "name": "Etnedal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Linda M Robøle",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.618333333333332,
+      60.97422222222221
+    ],
+    "note": null
+  },
+  {
+    "id": "1853",
+    "name": "Evenes",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Terje Bartholsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      17.027499999999996,
+      68.48689999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "4219",
+    "name": "Evje og Hornnes",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Morten Haraldstad",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.740266666666667,
+      58.57433333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "4206",
+    "name": "Farsund",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Ingrid Merethe Williamsen",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.690874999999999,
+      58.08925000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "1841",
+    "name": "Fauske",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Marlen Rendall Berg",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      15.605666666666666,
+      67.27833333333332
+    ],
+    "note": null
+  },
+  {
+    "id": "4633",
+    "name": "Fedje",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Stian Herøy",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.500285714285714,
+      60.799571428571426
+    ],
+    "note": null
+  },
+  {
+    "id": "4615",
+    "name": "Fitjar",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Wenche Tislevoll",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.2608,
+      59.9218
+    ],
+    "note": null
+  },
+  {
+    "id": "4646",
+    "name": "Fjaler",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Leif Jarle Espedal",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.323090909090909,
+      61.25627272727272
+    ],
+    "note": null
+  },
+  {
+    "id": "1578",
+    "name": "Fjord",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Terese Jemtegård Moen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.252000000000001,
+      62.30352000000002
+    ],
+    "note": null
+  },
+  {
+    "id": "1859",
+    "name": "Flakstad",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Einar Benjaminsen",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.069,
+      68.12366666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "5049",
+    "name": "Flatanger",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Olav Jørgen Bjørkås",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.502444444444443,
+      64.57688888888889
+    ],
+    "note": null
+  },
+  {
+    "id": "4207",
+    "name": "Flekkefjord",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Torbjørn Klungland",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.5680000000000005,
+      58.346333333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "3334",
+    "name": "Flesberg",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Oda Bakke Fosen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.458,
+      59.89785714285713
+    ],
+    "note": null
+  },
+  {
+    "id": "3320",
+    "name": "Flå",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Merete Høntorp Gandrud",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.457538461538462,
+      60.38153846153846
+    ],
+    "note": null
+  },
+  {
+    "id": "3429",
+    "name": "Folldal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Kristin Langtjernet",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.964764705882354,
+      62.13688235294118
+    ],
+    "note": null
+  },
+  {
+    "id": "3107",
+    "name": "Fredrikstad",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Arne Sekkelsten",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.895916666666665,
+      59.21016666666665
+    ],
+    "note": null
+  },
+  {
+    "id": "3214",
+    "name": "Frogn",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Sigbjørn Odden",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.667937499999997,
+      59.69381249999999
+    ],
+    "note": null
+  },
+  {
+    "id": "4214",
+    "name": "Froland",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Inger-Lene Håland",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.377090909090908,
+      58.57227272727273
+    ],
+    "note": null
+  },
+  {
+    "id": "5036",
+    "name": "Frosta",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Frode Revhaug",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.66175,
+      63.560125
+    ],
+    "note": null
+  },
+  {
+    "id": "5014",
+    "name": "Frøya",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Kristin Furunes Strømskag",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.823727272727272,
+      63.98609090909092
+    ],
+    "note": null
+  },
+  {
+    "id": "4032",
+    "name": "Fyresdal",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Erik Skjervagen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.043833333333334,
+      59.16816666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "3911",
+    "name": "Færder",
+    "countyCode": "39",
+    "countyName": "Vestfold",
+    "mayor": "Tom Mello",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.486,
+      59.03325
+    ],
+    "note": null
+  },
+  {
+    "id": "5626",
+    "name": "Gamvik",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Ragnhild Vassvik",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      27.919583333333332,
+      70.90733333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "3441",
+    "name": "Gausdal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Anette Musdalslien",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.868416666666667,
+      61.259166666666665
+    ],
+    "note": null
+  },
+  {
+    "id": "1838",
+    "name": "Gildeskål",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Bjørn Magne Pedersen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.981333333333335,
+      67.05913333333335
+    ],
+    "note": null
+  },
+  {
+    "id": "1532",
+    "name": "Giske",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Kenneth Langvatn",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.822333333333333,
+      62.56577777777779
+    ],
+    "note": null
+  },
+  {
+    "id": "1557",
+    "name": "Gjemnes",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Knut Sjømæling",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.776444444444446,
+      62.90655555555557
+    ],
+    "note": null
+  },
+  {
+    "id": "3230",
+    "name": "Gjerdrum",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Karl-Arne Johannessen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.004249999999999,
+      60.092375
+    ],
+    "note": null
+  },
+  {
+    "id": "4211",
+    "name": "Gjerstad",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Steinar Pedersen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.930399999999999,
+      58.90509999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "1122",
+    "name": "Gjesdal",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Frode Fjeldsbø",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.2411,
+      58.799200000000006
+    ],
+    "note": null
+  },
+  {
+    "id": "3407",
+    "name": "Gjøvik",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Anne Bjertnæs",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.416083333333333,
+      60.88233333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "4650",
+    "name": "Gloppen",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Arnar Kvernevik",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.035785714285715,
+      61.728357142857135
+    ],
+    "note": null
+  },
+  {
+    "id": "3324",
+    "name": "Gol",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Heidi Granli",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.943428571428571,
+      60.76585714285714
+    ],
+    "note": null
+  },
+  {
+    "id": "3446",
+    "name": "Gran",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Gunn Elisabeth Alm Thoresen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.5414,
+      60.43920000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "1825",
+    "name": "Grane",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Raymond Fagerli",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.394045454545454,
+      65.414
+    ],
+    "note": null
+  },
+  {
+    "id": "5516",
+    "name": "Gratangen",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Anita Karlsen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      17.5046,
+      68.72799999999998
+    ],
+    "note": null
+  },
+  {
+    "id": "4202",
+    "name": "Grimstad",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Beate Skretting",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.532583333333333,
+      58.38283333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "5045",
+    "name": "Grong",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Ann Jeanett Klinkenberg",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.554250000000001,
+      64.54275
+    ],
+    "note": null
+  },
+  {
+    "id": "3417",
+    "name": "Grue",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Rune Grenberg",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.186142857142856,
+      60.403000000000006
+    ],
+    "note": null
+  },
+  {
+    "id": "4635",
+    "name": "Gulen",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "May-Lynn Osland",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.122454545454544,
+      60.95372727272727
+    ],
+    "note": null
+  },
+  {
+    "id": "5612",
+    "name": "Kautokeino",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Anders S. Buljo",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      23.68784848484849,
+      69.0840606060606
+    ],
+    "note": null
+  },
+  {
+    "id": "5540",
+    "name": "Kåfjord",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Bernt Eirik Isaksen Lyngstad",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      20.770307692307693,
+      69.5216923076923
+    ],
+    "note": null
+  },
+  {
+    "id": "1866",
+    "name": "Hadsel",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Kjell-Børge Freiberg",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.9091,
+      68.52560000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "3101",
+    "name": "Halden",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Fredrik Holm",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.457333333333336,
+      59.06433333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "3403",
+    "name": "Hamar",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Vigdis Stensby",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.091250000000002,
+      60.917125
+    ],
+    "note": null
+  },
+  {
+    "id": "5603",
+    "name": "Hammerfest",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Terje Rogde",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      23.510699999999993,
+      70.56145000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "1580",
+    "name": "Haram",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Vebjørn Krogsæter",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.224666666666667,
+      62.68933333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "1517",
+    "name": "Hareid",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Bernt Brandal",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.9928333333333335,
+      62.388666666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "5503",
+    "name": "Harstad",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Else Marie Stenhaug",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      16.441416666666665,
+      68.89883333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "5616",
+    "name": "Hasvik",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Lars Hustad",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      22.313,
+      70.58191666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "1106",
+    "name": "Haugesund",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Nils Konrad Bua",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.961285714285714,
+      59.48371428571429
+    ],
+    "note": null
+  },
+  {
+    "id": "5055",
+    "name": "Heim",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Marit Liabø Sandvik",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.934235294117649,
+      63.278235294117636
+    ],
+    "note": null
+  },
+  {
+    "id": "1832",
+    "name": "Hemnes",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Paul Asphaug",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.74908,
+      66.04664000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "3326",
+    "name": "Hemsedal",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Pål Terje Rørby",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.580882352941174,
+      60.92805882352941
+    ],
+    "note": null
+  },
+  {
+    "id": "1515",
+    "name": "Herøy",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Ann-Kathrin Storøy",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.4065,
+      62.41133333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "1818",
+    "name": "Herøy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Elbjørg Larsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.86657142857143,
+      66.00785714285713
+    ],
+    "note": null
+  },
+  {
+    "id": "5056",
+    "name": "Hitra",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "John Lernes",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.928615384615386,
+      63.537
+    ],
+    "note": null
+  },
+  {
+    "id": "4024",
+    "name": "Hjartdal",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Bengt Halvard Odden",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.709249999999999,
+      59.697
+    ],
+    "note": null
+  },
+  {
+    "id": "1133",
+    "name": "Hjelmeland",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Anita Husøy Riskedal",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.231307692307693,
+      59.20553846153847
+    ],
+    "note": null
+  },
+  {
+    "id": "3330",
+    "name": "Hol",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Sigrid Simensen Ilsøy",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.9185,
+      60.59364285714286
+    ],
+    "note": null
+  },
+  {
+    "id": "3310",
+    "name": "Hole",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Syver Leivestad",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.278833333333333,
+      60.02983333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "3903",
+    "name": "Holmestrand",
+    "countyCode": "39",
+    "countyName": "Vestfold",
+    "mayor": "Alf Johan Svele",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.1832,
+      59.5329
+    ],
+    "note": null
+  },
+  {
+    "id": "5026",
+    "name": "Holtålen",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Dag Knudsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.217500000000001,
+      62.86408333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "3901",
+    "name": "Horten",
+    "countyCode": "39",
+    "countyName": "Vestfold",
+    "mayor": "Christina Maria Bratli",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.42746153846154,
+      59.394000000000005
+    ],
+    "note": null
+  },
+  {
+    "id": "3242",
+    "name": "Hurdal",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Paul Johan Moltzau",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.845461538461537,
+      60.46307692307692
+    ],
+    "note": null
+  },
+  {
+    "id": "1579",
+    "name": "Hustadvika",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Nils Christian Harnes",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.092055555555555,
+      62.92016666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "3110",
+    "name": "Hvaler",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Mona Vauger",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.916999999999998,
+      59.024
+    ],
+    "note": null
+  },
+  {
+    "id": "4637",
+    "name": "Hyllestad",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Kjell Eide",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.217571428571428,
+      61.177571428571426
+    ],
+    "note": null
+  },
+  {
+    "id": "1875",
+    "name": "Hamarøy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Britt Kristoffersen Løksa",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      15.998260869565216,
+      67.97147826086957
+    ],
+    "note": null
+  },
+  {
+    "id": "1119",
+    "name": "Hå",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Andreas Bjorland",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.595142857142856,
+      58.572
+    ],
+    "note": null
+  },
+  {
+    "id": "4226",
+    "name": "Hægebostad",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Jan Petter Gysland",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.219874999999999,
+      58.50375
+    ],
+    "note": null
+  },
+  {
+    "id": "4638",
+    "name": "Høyanger",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Petter Sortland",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.837541666666667,
+      61.12733333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "5046",
+    "name": "Høylandet",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Ole Joar Flaat",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.392058823529412,
+      64.76517647058823
+    ],
+    "note": null
+  },
+  {
+    "id": "5514",
+    "name": "Ibestad",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Jim Kristiansen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      17.203125,
+      68.840125
+    ],
+    "note": null
+  },
+  {
+    "id": "5053",
+    "name": "Inderøy",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Unn-Elisabeth Tronstad Kristiansen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.117333333333331,
+      63.85477777777778
+    ],
+    "note": null
+  },
+  {
+    "id": "5054",
+    "name": "Indre Fosen",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Oskar Småvik",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.308769230769231,
+      63.683538461538475
+    ],
+    "note": null
+  },
+  {
+    "id": "3118",
+    "name": "Indre Østfold",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Svend Saxe Frøshaug",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.141866666666663,
+      59.601866666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "4218",
+    "name": "Iveland",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Jan André Myhren",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.905,
+      58.43874999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "3236",
+    "name": "Jevnaker",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Morten Lafton",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.440333333333333,
+      60.25933333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "5534",
+    "name": "Karlsøy",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Mona Benjaminsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      19.201071428571424,
+      70.13921428571429
+    ],
+    "note": null
+  },
+  {
+    "id": "1149",
+    "name": "Karmøy",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Leiv Arne Marhaug",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.982916666666666,
+      59.29433333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "4602",
+    "name": "Kinn",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Bengt Solheim-Olsen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.0697368421052635,
+      61.78663157894738
+    ],
+    "note": null
+  },
+  {
+    "id": "1120",
+    "name": "Klepp",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Kjetil Maudal",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.378666666666667,
+      58.75266666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "3303",
+    "name": "Kongsberg",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Line Spiten",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.5975,
+      59.55221428571428
+    ],
+    "note": null
+  },
+  {
+    "id": "3401",
+    "name": "Kongsvinger",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Elin Såheim Bjørkli",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.172866666666666,
+      60.263400000000004
+    ],
+    "note": null
+  },
+  {
+    "id": "4014",
+    "name": "Kragerø",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Charlotte Therkelsen",
+    "party": "R",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.4765,
+      58.846624999999996
+    ],
+    "note": null
+  },
+  {
+    "id": "4204",
+    "name": "Kristiansand",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Mathias Bernander",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.827058823529412,
+      58.177176470588236
+    ],
+    "note": null
+  },
+  {
+    "id": "1505",
+    "name": "Kristiansund",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Kjell Neergaard",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.545200000000001,
+      63.1779
+    ],
+    "note": null
+  },
+  {
+    "id": "3318",
+    "name": "Krødsherad",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Andreas Kagiavas Torp",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.625833333333334,
+      60.217166666666664
+    ],
+    "note": null
+  },
+  {
+    "id": "4622",
+    "name": "Kvam",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Torgeir Næss",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.0604000000000005,
+      60.32189999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "4227",
+    "name": "Kvinesdal",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Per Sverre Kvinlaug",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.958214285714285,
+      58.49992857142858
+    ],
+    "note": null
+  },
+  {
+    "id": "4617",
+    "name": "Kvinnherad",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Vegard Bjørnevik",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.982055555555555,
+      59.95350000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "4028",
+    "name": "Kviteseid",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Tarjei Draugedal",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.462692307692308,
+      59.37576923076922
+    ],
+    "note": null
+  },
+  {
+    "id": "1144",
+    "name": "Kvitsøy",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Kjell André Nordbø",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.255142857142857,
+      59.017857142857146
+    ],
+    "note": null
+  },
+  {
+    "id": "5510",
+    "name": "Kvæfjord",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Birger Holand",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      15.905125000000002,
+      68.64193750000001
+    ],
+    "note": null
+  },
+  {
+    "id": "5546",
+    "name": "Kvænangen",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Kai Petter Johansen",
+    "party": "SV",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      21.989555555555555,
+      69.85596296296296
+    ],
+    "note": null
+  },
+  {
+    "id": "5610",
+    "name": "Karasjok",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Kjell Olav Guttorm",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      25.212999999999997,
+      69.43950000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "3909",
+    "name": "Larvik",
+    "countyCode": "39",
+    "countyName": "Vestfold",
+    "mayor": "Birgitte Gulla Løken",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.965363636363634,
+      59.14449999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "5624",
+    "name": "Lebesby",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Kristin Johnsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      26.899681818181815,
+      70.5505
+    ],
+    "note": null
+  },
+  {
+    "id": "1822",
+    "name": "Leirfjord",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Sten Rino Bonsaksen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.022916666666667,
+      66.10183333333332
+    ],
+    "note": null
+  },
+  {
+    "id": "5052",
+    "name": "Leka",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Svein Pettersen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.081571428571428,
+      65.193
+    ],
+    "note": null
+  },
+  {
+    "id": "3432",
+    "name": "Lesja",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Mariann Skotte",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.732833333333334,
+      62.19722222222222
+    ],
+    "note": null
+  },
+  {
+    "id": "5037",
+    "name": "Levanger",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Anita Ravlo Sand",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.162384615384614,
+      63.64469230769232
+    ],
+    "note": null
+  },
+  {
+    "id": "3312",
+    "name": "Lier",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Kjetil Kivle",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.217571428571429,
+      59.888714285714286
+    ],
+    "note": null
+  },
+  {
+    "id": "5042",
+    "name": "Lierne",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Tor Erling Inderdal",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.512999999999998,
+      64.425
+    ],
+    "note": null
+  },
+  {
+    "id": "3405",
+    "name": "Lillehammer",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Hans Olav Sundfør",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.3353,
+      61.1395
+    ],
+    "note": null
+  },
+  {
+    "id": "4215",
+    "name": "Lillesand",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Einar Holmer-Hoven",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.343333333333332,
+      58.16366666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "3205",
+    "name": "Lillestrøm",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Kjartan Berland",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.112388888888889,
+      59.93355555555555
+    ],
+    "note": null
+  },
+  {
+    "id": "4205",
+    "name": "Lindesnes",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Paal Pedersen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.45029411764706,
+      58.14870588235295
+    ],
+    "note": null
+  },
+  {
+    "id": "5518",
+    "name": "Lavangen",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Hege Beate Myrseth Rollmoen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      17.763153846153845,
+      68.73007692307691
+    ],
+    "note": null
+  },
+  {
+    "id": "3434",
+    "name": "Lom",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Kristian Frisvold",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.470764705882354,
+      61.687705882352944
+    ],
+    "note": null
+  },
+  {
+    "id": "5614",
+    "name": "Loppa",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Cato Kristiansen",
+    "party": "SV",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      21.623428571428573,
+      70.34542857142857
+    ],
+    "note": null
+  },
+  {
+    "id": "1112",
+    "name": "Lund",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Gro Helleland",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.4328666666666665,
+      58.4556
+    ],
+    "note": null
+  },
+  {
+    "id": "3234",
+    "name": "Lunner",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Harald Tyrdal",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.6295,
+      60.212
+    ],
+    "note": null
+  },
+  {
+    "id": "1834",
+    "name": "Lurøy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Håkon Lund",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.59130769230769,
+      66.4133076923077
+    ],
+    "note": null
+  },
+  {
+    "id": "4644",
+    "name": "Luster",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Andreas Wollnick Wiese",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.481736842105263,
+      61.49452631578946
+    ],
+    "note": null
+  },
+  {
+    "id": "4225",
+    "name": "Lyngdal",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Unni Nilsen Husøy",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.157388888888889,
+      58.2045
+    ],
+    "note": null
+  },
+  {
+    "id": "5536",
+    "name": "Lyngen",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Eirik Larsen",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      20.121750000000002,
+      69.70841666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "4642",
+    "name": "Lærdal",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Audun Mo",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.647181818181818,
+      61.05254545454545
+    ],
+    "note": null
+  },
+  {
+    "id": "1851",
+    "name": "Lødingen",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Hugo Bongard Jacobsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      15.569105263157894,
+      68.4167894736842
+    ],
+    "note": null
+  },
+  {
+    "id": "3222",
+    "name": "Lørenskog",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Amine Mabel Andresen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.984833333333333,
+      59.893333333333345
+    ],
+    "note": null
+  },
+  {
+    "id": "3412",
+    "name": "Løten",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Marte Larsen Tønseth",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.377,
+      60.84366666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "5031",
+    "name": "Malvik",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Eugen Gravningen Sørmo",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.819588235294118,
+      63.37588235294118
+    ],
+    "note": null
+  },
+  {
+    "id": "3122",
+    "name": "Marker",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Kjersti Nythe Nilsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.610999999999999,
+      59.51114285714285
+    ],
+    "note": null
+  },
+  {
+    "id": "4634",
+    "name": "Masfjorden",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Erlend Kvamsdal",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.434857142857143,
+      60.860285714285716
+    ],
+    "note": null
+  },
+  {
+    "id": "5028",
+    "name": "Melhus",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Einar Gimse-Syrstad",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.231333333333334,
+      63.21153333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "1837",
+    "name": "Meløy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Sigurd Stormo",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.611434782608695,
+      66.837
+    ],
+    "note": null
+  },
+  {
+    "id": "5034",
+    "name": "Meråker",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Gjøran Sandvik",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.798777777777778,
+      63.37966666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "4020",
+    "name": "Midt-Telemark",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Siri Blichfeldt Dyrland",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.095533333333332,
+      59.40966666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "5027",
+    "name": "Midtre Gauldal",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Trude Heggdal",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.5412,
+      62.881600000000006
+    ],
+    "note": null
+  },
+  {
+    "id": "4629",
+    "name": "Modalen",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Linda Neset",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.960777777777778,
+      60.92800000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "3316",
+    "name": "Modum",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Sunni Grøndahl Aamodt",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.933,
+      59.99783333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "1506",
+    "name": "Molde",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Trygve Grydeland",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.5028749999999995,
+      62.673083333333345
+    ],
+    "note": null
+  },
+  {
+    "id": "1874",
+    "name": "Moskenes",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Hanna Sverdrup",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.025857142857145,
+      67.84257142857143
+    ],
+    "note": null
+  },
+  {
+    "id": "3103",
+    "name": "Moss",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Simen Nord",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.647124999999999,
+      59.409499999999994
+    ],
+    "note": null
+  },
+  {
+    "id": "5524",
+    "name": "Målselv",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Martin Nymo",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      18.952692307692306,
+      69.01823076923074
+    ],
+    "note": null
+  },
+  {
+    "id": "5618",
+    "name": "Måsøy",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Ingrid Majala",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      24.392900000000004,
+      71.0003
+    ],
+    "note": null
+  },
+  {
+    "id": "0301",
+    "name": "Oslo",
+    "countyCode": "03",
+    "countyName": "Oslo",
+    "mayor": "Anne Lindboe",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.73,
+      59.96263636363637
+    ],
+    "note": null
+  },
+  {
+    "id": "5007",
+    "name": "Namsos",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Amund Lein",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.382000000000001,
+      64.48966666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "5044",
+    "name": "Namsskogan",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Elisabeth Vollmo Bjørhusdal",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.948722222222223,
+      64.86816666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "3238",
+    "name": "Nannestad",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Christian Bendz",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.963999999999999,
+      60.208181818181814
+    ],
+    "note": null
+  },
+  {
+    "id": "1806",
+    "name": "Narvik",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Rune Edvardsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      16.920920000000002,
+      68.31944000000003
+    ],
+    "note": null
+  },
+  {
+    "id": "3228",
+    "name": "Nes",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Tove Nyhus",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.485727272727273,
+      60.16354545454545
+    ],
+    "note": null
+  },
+  {
+    "id": "3322",
+    "name": "Nesbyen",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Anne Kari Eriksen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.005,
+      60.55316666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "1828",
+    "name": "Nesna",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Hanne Davidsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.957571428571429,
+      66.26242857142857
+    ],
+    "note": null
+  },
+  {
+    "id": "3212",
+    "name": "Nesodden",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Cathrine Kjenner Forsland",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.627571428571429,
+      59.79971428571428
+    ],
+    "note": null
+  },
+  {
+    "id": "4030",
+    "name": "Nissedal",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Ian Parry-Jones",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.560312500000002,
+      59.01668750000001
+    ],
+    "note": null
+  },
+  {
+    "id": "3232",
+    "name": "Nittedal",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Rune Winum",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.849285714285713,
+      60.08342857142857
+    ],
+    "note": null
+  },
+  {
+    "id": "4018",
+    "name": "Nome",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Linda Therese Thorstensen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.156095238095238,
+      59.24038095238096
+    ],
+    "note": null
+  },
+  {
+    "id": "3451",
+    "name": "Nord-Aurdal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Knut Arne Fjelltun",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.220999999999998,
+      60.959842105263164
+    ],
+    "note": null
+  },
+  {
+    "id": "3436",
+    "name": "Nord-Fron",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Anne Marie Olstad",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.4008,
+      61.52573333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "3414",
+    "name": "Nord-Odal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Odd Kjetil Østvand-Sløtte",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.5479,
+      60.4174
+    ],
+    "note": null
+  },
+  {
+    "id": "5620",
+    "name": "Nordkapp",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Jan Morten Hansen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      25.729416666666665,
+      70.97491666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "3207",
+    "name": "Nordre Follo",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Cecilie Dahl-Jørgensen Pind",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.816999999999998,
+      59.757374999999996
+    ],
+    "note": null
+  },
+  {
+    "id": "3448",
+    "name": "Nordre Land",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Ola Tore Dokken",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.942214285714284,
+      60.95364285714286
+    ],
+    "note": null
+  },
+  {
+    "id": "5544",
+    "name": "Nordreisa",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Hilde Nyvoll",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      21.422357142857134,
+      69.56628571428571
+    ],
+    "note": null
+  },
+  {
+    "id": "3338",
+    "name": "Nore og Uvdal",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Oddvar Svendsen",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.4263125,
+      60.2654375
+    ],
+    "note": null
+  },
+  {
+    "id": "4005",
+    "name": "Notodden",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Gry Fuglestveit",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.082187499999998,
+      59.662625000000006
+    ],
+    "note": null
+  },
+  {
+    "id": "5060",
+    "name": "Nærøysund",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Amund Hellesø",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.348058823529414,
+      64.91776470588236
+    ],
+    "note": null
+  },
+  {
+    "id": "5021",
+    "name": "Oppdal",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Elisabeth Hals",
+    "party": "V",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.54338888888889,
+      62.4986111111111
+    ],
+    "note": null
+  },
+  {
+    "id": "5059",
+    "name": "Orkland",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Hanne Nyhus",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.550444444444443,
+      63.29440740740741
+    ],
+    "note": null
+  },
+  {
+    "id": "3430",
+    "name": "Os",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Ivar Torvidsson Midtdal",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.278769230769232,
+      62.440384615384616
+    ],
+    "note": null
+  },
+  {
+    "id": "5020",
+    "name": "Osen",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Håvard Strand",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.172222222222222,
+      64.37166666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "4630",
+    "name": "Osterøy",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Lars Fjeldstad",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.5696,
+      60.544900000000005
+    ],
+    "note": null
+  },
+  {
+    "id": "5047",
+    "name": "Overhalla",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Hege Kristin Kværnø Saugen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.955000000000002,
+      64.45184615384615
+    ],
+    "note": null
+  },
+  {
+    "id": "5622",
+    "name": "Porsanger",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Jo Inge Hesjevik",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      25.139041666666667,
+      70.23975
+    ],
+    "note": null
+  },
+  {
+    "id": "4001",
+    "name": "Porsgrunn",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Janicke Andreassen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.763555555555556,
+      59.1138888888889
+    ],
+    "note": null
+  },
+  {
+    "id": "5043",
+    "name": "Røyrvik",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Kennet Tømmermo Reitan",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.4985,
+      64.83183333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "3120",
+    "name": "Rakkestad",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Karoline Fjeldstad",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.341166666666666,
+      59.35483333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "1833",
+    "name": "Rana",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Geir Waage",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.280228571428575,
+      66.46491428571429
+    ],
+    "note": null
+  },
+  {
+    "id": "1127",
+    "name": "Randaberg",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Jarle Bø",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.5368,
+      59.004
+    ],
+    "note": null
+  },
+  {
+    "id": "1539",
+    "name": "Rauma",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Yvonne Wold",
+    "party": "SV",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.709388888888889,
+      62.41455555555555
+    ],
+    "note": null
+  },
+  {
+    "id": "3424",
+    "name": "Rendalen",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Linda Døsen Stubsveen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.177562499999997,
+      61.835687500000006
+    ],
+    "note": null
+  },
+  {
+    "id": "5022",
+    "name": "Rennebu",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Per Arne Lium",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.821222222222222,
+      62.76222222222222
+    ],
+    "note": null
+  },
+  {
+    "id": "5061",
+    "name": "Rindal",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Mildrid Kattem Aune",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.2766,
+      63.00873333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "3439",
+    "name": "Ringebu",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Arne Fossmo",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.243800000000002,
+      61.57419999999998
+    ],
+    "note": null
+  },
+  {
+    "id": "3305",
+    "name": "Ringerike",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Hilde Karin Vollmerhaus",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.07635,
+      60.27375000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "3411",
+    "name": "Ringsaker",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Kai Ove Berg",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.860142857142858,
+      61.01728571428571
+    ],
+    "note": null
+  },
+  {
+    "id": "4201",
+    "name": "Risør",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Kai Magne Strat",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.232666666666665,
+      58.69966666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "3336",
+    "name": "Rollag",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Øystein Morten",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.183222222222222,
+      59.98722222222222
+    ],
+    "note": null
+  },
+  {
+    "id": "5025",
+    "name": "Rosse",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Sadmira Buljubasic",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.736749999999999,
+      62.5735
+    ],
+    "note": null
+  },
+  {
+    "id": "3112",
+    "name": "Råde",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "René Rafshol",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.728375000000002,
+      59.311875
+    ],
+    "note": null
+  },
+  {
+    "id": "3224",
+    "name": "Rælingen",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Gro Langdalen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.057428571428572,
+      59.899
+    ],
+    "note": null
+  },
+  {
+    "id": "1836",
+    "name": "Rødøy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Inger Dagmar Monsen",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.82529411764706,
+      66.73105882352942
+    ],
+    "note": null
+  },
+  {
+    "id": "1856",
+    "name": "Røst",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Elisabeth Mikalsen",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.001333333333333,
+      67.34533333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "5522",
+    "name": "Salangen",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Simon Løvhaug",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      17.826299999999996,
+      68.87255000000002
+    ],
+    "note": null
+  },
+  {
+    "id": "1840",
+    "name": "Saltdal",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Runar Løvdal Jensen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      15.317615384615381,
+      66.85423076923077
+    ],
+    "note": null
+  },
+  {
+    "id": "4623",
+    "name": "Samnanger",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Karl Bård Kollbotn",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.729142857142858,
+      60.36628571428571
+    ],
+    "note": null
+  },
+  {
+    "id": "1514",
+    "name": "Sande",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Dag Arne Vaagen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.148333333333333,
+      62.30316666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "3907",
+    "name": "Sandefjord",
+    "countyCode": "39",
+    "countyName": "Vestfold",
+    "mayor": "Bjørn Ole Gleditsch",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.186357142857142,
+      59.13949999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "4212",
+    "name": "Vegårshei",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Kjetil Torp",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.81175,
+      58.7595
+    ],
+    "note": null
+  },
+  {
+    "id": "1108",
+    "name": "Sandnes",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Kenny Rettore",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.059142857142858,
+      58.93528571428571
+    ],
+    "note": null
+  },
+  {
+    "id": "3105",
+    "name": "Sarpsborg",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Magnus Arnesen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.121222222222222,
+      59.30294444444443
+    ],
+    "note": null
+  },
+  {
+    "id": "1135",
+    "name": "Sauda",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Håvard Handeland",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.4479999999999995,
+      59.714375000000004
+    ],
+    "note": null
+  },
+  {
+    "id": "3437",
+    "name": "Sel",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Eldri Siem",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.541428571428572,
+      61.808
+    ],
+    "note": null
+  },
+  {
+    "id": "5032",
+    "name": "Selbu",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Lars Sletne",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.024166666666666,
+      63.17758333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "4022",
+    "name": "Seljord",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Solveig Sundbø Abrahamsen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.552928571428572,
+      59.546571428571426
+    ],
+    "note": null
+  },
+  {
+    "id": "5530",
+    "name": "Senja",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Geir Inge Sivertsen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      17.395842105263156,
+      69.36421052631579
+    ],
+    "note": null
+  },
+  {
+    "id": "3332",
+    "name": "Sigdal",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Vebjørn Aasand Seljord",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.49035,
+      60.09865
+    ],
+    "note": null
+  },
+  {
+    "id": "4010",
+    "name": "Siljan",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Elisabeth Hammer",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.747,
+      59.285875
+    ],
+    "note": null
+  },
+  {
+    "id": "4228",
+    "name": "Sirdal",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Jonny Liland",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.78484,
+      58.78943999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "5029",
+    "name": "Skaun",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Per Gunnar Lofgren",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.03375,
+      63.260625
+    ],
+    "note": null
+  },
+  {
+    "id": "4003",
+    "name": "Skien",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Marius Roheim Aarvold",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.39344,
+      59.22052000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "3116",
+    "name": "Skiptvet",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Cecilie Agnalt",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.1425,
+      59.4735
+    ],
+    "note": null
+  },
+  {
+    "id": "5542",
+    "name": "Skjervøy",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Ørjan Albrigtsen",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      20.724,
+      70.07383333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "3433",
+    "name": "Skjåk",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Edel Kveen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.8611,
+      61.99325000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "1573",
+    "name": "Smøla",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Svein Roksvåg",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.683,
+      63.464166666666664
+    ],
+    "note": null
+  },
+  {
+    "id": "5041",
+    "name": "Snåsa",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Arnt Einar Bardal",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.518999999999998,
+      64.1961111111111
+    ],
+    "note": null
+  },
+  {
+    "id": "4640",
+    "name": "Sogndal",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Stig Ove Ølmheim",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.645866666666666,
+      61.25246666666666
+    ],
+    "note": null
+  },
+  {
+    "id": "1111",
+    "name": "Sokndal",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Bjørn-Inge Mydland",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.284307692307692,
+      58.340538461538465
+    ],
+    "note": null
+  },
+  {
+    "id": "1124",
+    "name": "Sola",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Janne Stangeland Rege",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.343571428571429,
+      58.89928571428571
+    ],
+    "note": null
+  },
+  {
+    "id": "4636",
+    "name": "Solund",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Gunn Åmdal Mongstad",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.498375,
+      61.099624999999996
+    ],
+    "note": null
+  },
+  {
+    "id": "1870",
+    "name": "Sortland",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Grete Ellingsen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      15.472999999999997,
+      68.74
+    ],
+    "note": null
+  },
+  {
+    "id": "4649",
+    "name": "Stad",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Sigurd Erlend Reksnes",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.533277777777776,
+      62.028388888888884
+    ],
+    "note": null
+  },
+  {
+    "id": "3413",
+    "name": "Stange",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Bjarne Højsgaard Christiansen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.301545454545455,
+      60.62918181818181
+    ],
+    "note": null
+  },
+  {
+    "id": "1103",
+    "name": "Stavanger",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Tormod Wilson Losnedal",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.772312499999999,
+      59.1171875
+    ],
+    "note": null
+  },
+  {
+    "id": "1848",
+    "name": "Steigen",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Aase Refsnes",
+    "party": "SV",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.943357142857144,
+      67.80621428571429
+    ],
+    "note": null
+  },
+  {
+    "id": "5006",
+    "name": "Steinkjer",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Gunnar Thorsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.356333333333334,
+      63.992250000000006
+    ],
+    "note": null
+  },
+  {
+    "id": "5035",
+    "name": "Stjørdal",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Eli Arnstad",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.013695652173913,
+      63.42730434782609
+    ],
+    "note": null
+  },
+  {
+    "id": "3423",
+    "name": "Stor-Elvdal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Linda Otnes Henriksen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.669,
+      61.61054999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "4614",
+    "name": "Stord",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Sigbjørn Framnes",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.473833333333334,
+      59.81366666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "5538",
+    "name": "Storfjord",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Geir Varvik",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      20.37307692307692,
+      69.19238461538463
+    ],
+    "note": null
+  },
+  {
+    "id": "1130",
+    "name": "Strand",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Irene Heng Lauvsnes",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.0305,
+      59.04529999999998
+    ],
+    "note": null
+  },
+  {
+    "id": "1525",
+    "name": "Stranda",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Einar Arve Nordang",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.916000000000001,
+      62.2383
+    ],
+    "note": null
+  },
+  {
+    "id": "4651",
+    "name": "Stryn",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Per Atle Kjøllesdal",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.679636363636363,
+      61.84336363636363
+    ],
+    "note": null
+  },
+  {
+    "id": "1531",
+    "name": "Sula",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Turid Humlen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.1218,
+      62.420399999999994
+    ],
+    "note": null
+  },
+  {
+    "id": "1134",
+    "name": "Suldal",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Mads Drange",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.5572857142857135,
+      59.542476190476194
+    ],
+    "note": null
+  },
+  {
+    "id": "1563",
+    "name": "Sunndal",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Ståle Refstie",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.641388888888889,
+      62.62705555555556
+    ],
+    "note": null
+  },
+  {
+    "id": "4647",
+    "name": "Sunnfjord",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Jenny Følling",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.944062499999999,
+      61.46649999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "1566",
+    "name": "Surnadal",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Hugo Pedersen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.84776923076923,
+      62.94069230769231
+    ],
+    "note": null
+  },
+  {
+    "id": "4612",
+    "name": "Sveio",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "André Mundal Haukås",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.390624999999999,
+      59.588125
+    ],
+    "note": null
+  },
+  {
+    "id": "1528",
+    "name": "Sykkylven",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Olav Harald Ulstein",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.643833333333333,
+      62.3795
+    ],
+    "note": null
+  },
+  {
+    "id": "1812",
+    "name": "Sømna",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Gunder Strømberg",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.703307692307693,
+      65.34738461538461
+    ],
+    "note": null
+  },
+  {
+    "id": "3447",
+    "name": "Søndre Land",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Roger Fløttum",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.269642857142857,
+      60.726142857142854
+    ],
+    "note": null
+  },
+  {
+    "id": "3449",
+    "name": "Sør-Aurdal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Marit Hougsrud",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.626666666666667,
+      60.705999999999996
+    ],
+    "note": null
+  },
+  {
+    "id": "3438",
+    "name": "Sør-Fron",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Ole Tvete Muriteigen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.702555555555556,
+      61.56883333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "3415",
+    "name": "Sør-Odal",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Knut Hvithammer",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.720083333333335,
+      60.252416666666676
+    ],
+    "note": null
+  },
+  {
+    "id": "5605",
+    "name": "Sør-Varanger",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Magnus Mæland",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      29.752523809523815,
+      69.6165238095238
+    ],
+    "note": null
+  },
+  {
+    "id": "1845",
+    "name": "Sørfold",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Kolbjørn Mathisen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      15.720000000000002,
+      67.53004761904762
+    ],
+    "note": null
+  },
+  {
+    "id": "5526",
+    "name": "Sørreisa",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Jan-Eirik Nordahl",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      18.198666666666668,
+      69.1148
+    ],
+    "note": null
+  },
+  {
+    "id": "1121",
+    "name": "Time",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Andreas Vollsund",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.7785,
+      58.719
+    ],
+    "note": null
+  },
+  {
+    "id": "1560",
+    "name": "Tingvoll",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Ingrid Waagen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.158727272727273,
+      62.94363636363635
+    ],
+    "note": null
+  },
+  {
+    "id": "4026",
+    "name": "Tinn",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Kathrine Haatvedt",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.57033333333333,
+      59.945777777777785
+    ],
+    "note": null
+  },
+  {
+    "id": "4034",
+    "name": "Tokke",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Jarand Felland",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.9219375,
+      59.48387499999999
+    ],
+    "note": null
+  },
+  {
+    "id": "3426",
+    "name": "Tolga",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Bjørnar Tollan Jordet",
+    "party": "SV",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.12475,
+      62.322833333333335
+    ],
+    "note": null
+  },
+  {
+    "id": "5501",
+    "name": "Tromsø",
+    "countyCode": "55",
+    "countyName": "Troms",
+    "mayor": "Gunnar Wilhelmsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      18.887279999999997,
+      69.6646
+    ],
+    "note": null
+  },
+  {
+    "id": "5001",
+    "name": "Trondheim",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Kent Thomas Ranum",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.35785714285714,
+      63.344857142857144
+    ],
+    "note": null
+  },
+  {
+    "id": "3421",
+    "name": "Trysil",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Turid Backe-Viken",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.13593333333333,
+      61.3586
+    ],
+    "note": null
+  },
+  {
+    "id": "1835",
+    "name": "Træna",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Trond Vegard Sletten",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.955363636363638,
+      66.53218181818181
+    ],
+    "note": null
+  },
+  {
+    "id": "4213",
+    "name": "Tvedestrand",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Marianne Landaas",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.9603,
+      58.59689999999999
+    ],
+    "note": null
+  },
+  {
+    "id": "5033",
+    "name": "Tydal",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Jens Arne Kvello",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.721833333333334,
+      62.976000000000006
+    ],
+    "note": null
+  },
+  {
+    "id": "3427",
+    "name": "Tynset",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Merete Myhre Moen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.624722222222223,
+      62.364111111111114
+    ],
+    "note": null
+  },
+  {
+    "id": "4616",
+    "name": "Tysnes",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Synnøve Bakke",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.553222222222223,
+      59.99544444444445
+    ],
+    "note": null
+  },
+  {
+    "id": "1146",
+    "name": "Tysvær",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Monika Lindanger",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.574923076923079,
+      59.38192307692306
+    ],
+    "note": null
+  },
+  {
+    "id": "3905",
+    "name": "Tønsberg",
+    "countyCode": "39",
+    "countyName": "Vestfold",
+    "mayor": "Frank Pedersen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.349562499999998,
+      59.3640625
+    ],
+    "note": null
+  },
+  {
+    "id": "3209",
+    "name": "Ullensaker",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Ståle Lien Hansen",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.164874999999999,
+      60.143625
+    ],
+    "note": null
+  },
+  {
+    "id": "4618",
+    "name": "Ullensvang",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Tor Helge Haara Tjemsland",
+    "party": "Ap",
+    "source": "https://ullensvang.kommune.no/tenester/politikk-administrasjon-og-okonomi/politikk/ordforar/",
+    "point": [
+      6.762333333333332,
+      60.07007407407408
+    ],
+    "note": null
+  },
+  {
+    "id": "1516",
+    "name": "Ulstein",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Stian Skorgen Scheide",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.874714285714285,
+      62.323
+    ],
+    "note": null
+  },
+  {
+    "id": "4620",
+    "name": "Ulvik",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Jens Olav Holven",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.244,
+      60.58054545454545
+    ],
+    "note": null
+  },
+  {
+    "id": "5636",
+    "name": "Nesseby",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Berit Ranveig Nilssen",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      28.889999999999997,
+      70.142
+    ],
+    "note": null
+  },
+  {
+    "id": "1151",
+    "name": "Utsira",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Marte Eide Klovning",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.728166666666666,
+      59.247833333333325
+    ],
+    "note": null
+  },
+  {
+    "id": "5607",
+    "name": "Vadsø",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Wenche Pedersen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      29.515153846153847,
+      70.25284615384615
+    ],
+    "note": null
+  },
+  {
+    "id": "4628",
+    "name": "Vaksdal",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Hege Eide Vik",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.888947368421052,
+      60.625894736842106
+    ],
+    "note": null
+  },
+  {
+    "id": "4221",
+    "name": "Valle",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Lars Tarald Myrum",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.353111111111111,
+      59.123999999999995
+    ],
+    "note": null
+  },
+  {
+    "id": "3454",
+    "name": "Vang",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Jørand Ødegård Lunde",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.482000000000001,
+      61.21494117647059
+    ],
+    "note": null
+  },
+  {
+    "id": "1511",
+    "name": "Vanylven",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Paul Sindre Vedeld",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.633444444444445,
+      62.10455555555556
+    ],
+    "note": null
+  },
+  {
+    "id": "5634",
+    "name": "Vardø",
+    "countyCode": "56",
+    "countyName": "Finnmark",
+    "mayor": "Tor Erik Labahå",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      31.061875,
+      70.28962500000002
+    ],
+    "note": null
+  },
+  {
+    "id": "1824",
+    "name": "Vefsn",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Rune Krutå",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.299035714285713,
+      65.88928571428572
+    ],
+    "note": null
+  },
+  {
+    "id": "1815",
+    "name": "Vega",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Jon Albert Floa",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.557000000000002,
+      65.71833333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "4223",
+    "name": "Vennesla",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Nils Olav Larsen",
+    "party": "KrF",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.799307692307694,
+      58.3363076923077
+    ],
+    "note": null
+  },
+  {
+    "id": "5038",
+    "name": "Verdal",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Knut Snorre Sandnes",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.836749999999999,
+      63.78937500000001
+    ],
+    "note": null
+  },
+  {
+    "id": "3216",
+    "name": "Vestby",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Tom Anders Ludvigsen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.717307692307692,
+      59.59776923076923
+    ],
+    "note": null
+  },
+  {
+    "id": "1535",
+    "name": "Vestnes",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Randi Bergundhaugen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.038749999999999,
+      62.58625
+    ],
+    "note": null
+  },
+  {
+    "id": "3452",
+    "name": "Vestre Slidre",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Haldor Ødegård",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.824444444444445,
+      61.044
+    ],
+    "note": null
+  },
+  {
+    "id": "3443",
+    "name": "Vestre Toten",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Tonje Bergum Jahr",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.6137,
+      60.623699999999985
+    ],
+    "note": null
+  },
+  {
+    "id": "1860",
+    "name": "Vestvågøy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Jonny Finstad",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      13.659583333333332,
+      68.17433333333332
+    ],
+    "note": null
+  },
+  {
+    "id": "1816",
+    "name": "Vevelstad",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Bjørg Ireen Fønnebø",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.570636363636362,
+      65.61390909090909
+    ],
+    "note": null
+  },
+  {
+    "id": "4639",
+    "name": "Vik",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Roy Egil Stadheim",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.487466666666667,
+      61.01753333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "1160",
+    "name": "Vindafjord",
+    "countyCode": "11",
+    "countyName": "Rogaland",
+    "mayor": "Ole Johan Vierdal",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      5.735333333333333,
+      59.53725
+    ],
+    "note": null
+  },
+  {
+    "id": "4036",
+    "name": "Vinje",
+    "countyCode": "40",
+    "countyName": "Telemark",
+    "mayor": "Jon Rikard Kleven",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.748190476190478,
+      59.77523809523808
+    ],
+    "note": null
+  },
+  {
+    "id": "1577",
+    "name": "Volda",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Sølvi Dimmen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.216333333333335,
+      62.07346666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "4621",
+    "name": "Voss",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Tonje Såkvitne",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.49904,
+      60.69712000000001
+    ],
+    "note": null
+  },
+  {
+    "id": "1865",
+    "name": "Vågan",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Vidar Thom Benjaminsen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.41225,
+      68.312625
+    ],
+    "note": null
+  },
+  {
+    "id": "3435",
+    "name": "Vågå",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Harald Sve Bjørndal",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.918363636363638,
+      61.64422727272727
+    ],
+    "note": null
+  },
+  {
+    "id": "3114",
+    "name": "Våler",
+    "countyCode": "31",
+    "countyName": "Østfold",
+    "mayor": "Reidar Kaabbel",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.932,
+      59.461555555555556
+    ],
+    "note": null
+  },
+  {
+    "id": "3419",
+    "name": "Våler",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Harry Vinje",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.9605,
+      60.80205555555555
+    ],
+    "note": null
+  },
+  {
+    "id": "1857",
+    "name": "Værøy",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Susan Berg Kristiansen",
+    "party": "Andre",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      12.4954,
+      67.6946
+    ],
+    "note": null
+  },
+  {
+    "id": "5058",
+    "name": "Åfjord",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Erling Iversen",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.16925,
+      64.08033333333334
+    ],
+    "note": null
+  },
+  {
+    "id": "3328",
+    "name": "Ål",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Jørund Li",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.2942,
+      60.705999999999996
+    ],
+    "note": null
+  },
+  {
+    "id": "1508",
+    "name": "Ålesund",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Håkon Lykkebø Strand",
+    "party": "FrP",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.478714285714285,
+      62.657857142857154
+    ],
+    "note": null
+  },
+  {
+    "id": "4217",
+    "name": "Åmli",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Hans Fredrik Tangen",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      8.366066666666667,
+      58.78293333333333
+    ],
+    "note": null
+  },
+  {
+    "id": "3422",
+    "name": "Åmot",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Ole Erik Hørstad",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.371384615384615,
+      61.235538461538454
+    ],
+    "note": null
+  },
+  {
+    "id": "4643",
+    "name": "Årdal",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Christian Sønstlien",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.749333333333334,
+      61.24306666666667
+    ],
+    "note": null
+  },
+  {
+    "id": "3218",
+    "name": "Ås",
+    "countyCode": "32",
+    "countyName": "Akershus",
+    "mayor": "Bengt Nøst-Klemmetsen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.724809523809522,
+      59.66157142857142
+    ],
+    "note": null
+  },
+  {
+    "id": "4224",
+    "name": "Åseral",
+    "countyCode": "42",
+    "countyName": "Agder",
+    "mayor": "Inger Lise Lund Stulien",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      7.418846153846156,
+      58.66153846153847
+    ],
+    "note": null
+  },
+  {
+    "id": "3418",
+    "name": "Åsnes",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Einar Toverud",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      11.971461538461538,
+      60.64184615384614
+    ],
+    "note": null
+  },
+  {
+    "id": "1868",
+    "name": "Øksnes",
+    "countyCode": "18",
+    "countyName": "Nordland",
+    "mayor": "Elisabeth Sørdahl",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      14.861384615384615,
+      68.88784615384616
+    ],
+    "note": null
+  },
+  {
+    "id": "5057",
+    "name": "Ørland",
+    "countyCode": "50",
+    "countyName": "Trøndelag",
+    "mayor": "Hallgeir Grøntvedt",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.601777777777777,
+      63.82222222222223
+    ],
+    "note": null
+  },
+  {
+    "id": "1520",
+    "name": "Ørsta",
+    "countyCode": "15",
+    "countyName": "Møre og Romsdal",
+    "mayor": "Per Are Sørheim",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      6.395416666666666,
+      62.21725
+    ],
+    "note": null
+  },
+  {
+    "id": "3442",
+    "name": "Østre Toten",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Bror Helgestad",
+    "party": "Sp",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.859600000000002,
+      60.598466666666674
+    ],
+    "note": null
+  },
+  {
+    "id": "3314",
+    "name": "Øvre Eiker",
+    "countyCode": "33",
+    "countyName": "Buskerud",
+    "mayor": "Adrian Wilhelm Kjølø Tollefsen",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.81,
+      59.777499999999996
+    ],
+    "note": null
+  },
+  {
+    "id": "3440",
+    "name": "Øyer",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Anne Marie Sveipe",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      10.455444444444446,
+      61.29333333333332
+    ],
+    "note": null
+  },
+  {
+    "id": "4626",
+    "name": "Øygarden",
+    "countyCode": "46",
+    "countyName": "Vestland",
+    "mayor": "Tom Georg Indrevik",
+    "party": "H",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      4.888363636363636,
+      60.424454545454545
+    ],
+    "note": null
+  },
+  {
+    "id": "3453",
+    "name": "Øystre Slidre",
+    "countyCode": "34",
+    "countyName": "Innlandet",
+    "mayor": "Bjarne Budal",
+    "party": "Ap",
+    "source": "https://no.wikipedia.org/wiki/Liste_over_ordf%C3%B8rere_i_Norge_2023%E2%80%932027",
+    "point": [
+      9.011538461538462,
+      61.28215384615385
+    ],
+    "note": null
+  }
+]

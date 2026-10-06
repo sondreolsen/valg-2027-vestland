@@ -1,0 +1,803 @@
+{
+  "11": {
+    "totalSeats": 47,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 19.7,
+        "seats": 10
+      },
+      "Frp": {
+        "value": 14.7,
+        "seats": 7
+      },
+      "H": {
+        "value": 28,
+        "seats": 14
+      },
+      "INP": {
+        "value": 5.5,
+        "seats": 3
+      },
+      "KrF": {
+        "value": 8.7,
+        "seats": 4
+      },
+      "MDG": {
+        "value": 2.6,
+        "seats": 1
+      },
+      "Pp": {
+        "value": 1.3,
+        "seats": 0
+      },
+      "R": {
+        "value": 3,
+        "seats": 1
+      },
+      "Sp": {
+        "value": 5.9,
+        "seats": 3
+      },
+      "SV": {
+        "value": 4.4,
+        "seats": 2
+      },
+      "V": {
+        "value": 3.2,
+        "seats": 2
+      },
+      "Andre": {
+        "value": 2.9,
+        "seats": 0
+      }
+    }
+  },
+  "15": {
+    "totalSeats": 47,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 16.2,
+        "seats": 8
+      },
+      "Frp": {
+        "value": 22,
+        "seats": 10
+      },
+      "H": {
+        "value": 19,
+        "seats": 9
+      },
+      "INP": {
+        "value": 5.2,
+        "seats": 2
+      },
+      "KrF": {
+        "value": 5.4,
+        "seats": 3
+      },
+      "MDG": {
+        "value": 2.8,
+        "seats": 1
+      },
+      "Pp": {
+        "value": 0,
+        "seats": 0
+      },
+      "R": {
+        "value": 2.1,
+        "seats": 1
+      },
+      "Sp": {
+        "value": 9.6,
+        "seats": 5
+      },
+      "SV": {
+        "value": 5.6,
+        "seats": 3
+      },
+      "V": {
+        "value": 3.9,
+        "seats": 2
+      },
+      "Andre": {
+        "value": 8.3,
+        "seats": 3
+      }
+    }
+  },
+  "18": {
+    "totalSeats": 45,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 24.4,
+        "seats": 11
+      },
+      "Frp": {
+        "value": 12.7,
+        "seats": 6
+      },
+      "H": {
+        "value": 22.9,
+        "seats": 11
+      },
+      "INP": {
+        "value": 5.3,
+        "seats": 2
+      },
+      "KrF": {
+        "value": 2.4,
+        "seats": 1
+      },
+      "MDG": {
+        "value": 2.5,
+        "seats": 1
+      },
+      "Pp": {
+        "value": 1.1,
+        "seats": 0
+      },
+      "R": {
+        "value": 5.5,
+        "seats": 3
+      },
+      "Sp": {
+        "value": 10.7,
+        "seats": 5
+      },
+      "SV": {
+        "value": 7.6,
+        "seats": 4
+      },
+      "V": {
+        "value": 3.2,
+        "seats": 1
+      },
+      "Andre": {
+        "value": 1.7,
+        "seats": 0
+      }
+    }
+  },
+  "31": {
+    "totalSeats": 43,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 25,
+        "seats": 11
+      },
+      "Frp": {
+        "value": 13.4,
+        "seats": 6
+      },
+      "H": {
+        "value": 27,
+        "seats": 12
+      },
+      "INP": {
+        "value": 3.5,
+        "seats": 1
+      },
+      "KrF": {
+        "value": 3.6,
+        "seats": 2
+      },
+      "MDG": {
+        "value": 3.6,
+        "seats": 2
+      },
+      "Pp": {
+        "value": 3.4,
+        "seats": 1
+      },
+      "R": {
+        "value": 3.9,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 7.1,
+        "seats": 3
+      },
+      "SV": {
+        "value": 4.9,
+        "seats": 2
+      },
+      "V": {
+        "value": 2.5,
+        "seats": 1
+      },
+      "Andre": {
+        "value": 2,
+        "seats": 0
+      }
+    }
+  },
+  "32": {
+    "totalSeats": 51,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 19,
+        "seats": 10
+      },
+      "Frp": {
+        "value": 11,
+        "seats": 6
+      },
+      "H": {
+        "value": 35.6,
+        "seats": 19
+      },
+      "INP": {
+        "value": 2.5,
+        "seats": 1
+      },
+      "KrF": {
+        "value": 2.2,
+        "seats": 1
+      },
+      "MDG": {
+        "value": 5.4,
+        "seats": 3
+      },
+      "Pp": {
+        "value": 2,
+        "seats": 1
+      },
+      "R": {
+        "value": 3.1,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 4.3,
+        "seats": 2
+      },
+      "SV": {
+        "value": 5.6,
+        "seats": 3
+      },
+      "V": {
+        "value": 2.9,
+        "seats": 0
+      },
+      "Andre": {}
+    }
+  },
+  "33": {
+    "totalSeats": 47,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 21.8,
+        "seats": 10
+      },
+      "Frp": {
+        "value": 12.8,
+        "seats": 6
+      },
+      "H": {
+        "value": 30.2,
+        "seats": 15
+      },
+      "INP": {
+        "value": 3.5,
+        "seats": 2
+      },
+      "KrF": {
+        "value": 2.5,
+        "seats": 1
+      },
+      "MDG": {
+        "value": 3.6,
+        "seats": 2
+      },
+      "Pp": {
+        "value": 1.8,
+        "seats": 1
+      },
+      "R": {
+        "value": 2.9,
+        "seats": 1
+      },
+      "Sp": {
+        "value": 9.6,
+        "seats": 5
+      },
+      "SV": {
+        "value": 5.1,
+        "seats": 2
+      },
+      "V": {
+        "value": 3.6,
+        "seats": 2
+      },
+      "Andre": {
+        "value": 2.7,
+        "seats": 0
+      }
+    }
+  },
+  "34": {
+    "totalSeats": 57,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 31,
+        "seats": 18
+      },
+      "Frp": {
+        "value": 9.2,
+        "seats": 5
+      },
+      "H": {
+        "value": 17,
+        "seats": 10
+      },
+      "INP": {
+        "value": 2.7,
+        "seats": 2
+      },
+      "KrF": {
+        "value": 2,
+        "seats": 1
+      },
+      "MDG": {
+        "value": 2.9,
+        "seats": 2
+      },
+      "Pp": {
+        "value": 3.9,
+        "seats": 2
+      },
+      "R": {
+        "value": 3.5,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 17,
+        "seats": 10
+      },
+      "SV": {
+        "value": 6,
+        "seats": 3
+      },
+      "V": {
+        "value": 3,
+        "seats": 2
+      },
+      "Andre": {}
+    }
+  },
+  "39": {
+    "totalSeats": 41,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 22.9,
+        "seats": 10
+      },
+      "Frp": {
+        "value": 13,
+        "seats": 5
+      },
+      "H": {
+        "value": 31.6,
+        "seats": 13
+      },
+      "INP": {
+        "value": 4.8,
+        "seats": 2
+      },
+      "KrF": {
+        "value": 3.6,
+        "seats": 1
+      },
+      "MDG": {
+        "value": 4.1,
+        "seats": 2
+      },
+      "Pp": {
+        "value": 0,
+        "seats": 0
+      },
+      "R": {
+        "value": 3.7,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 4.2,
+        "seats": 2
+      },
+      "SV": {
+        "value": 5.4,
+        "seats": 2
+      },
+      "V": {
+        "value": 3.6,
+        "seats": 2
+      },
+      "Andre": {
+        "value": 3,
+        "seats": 0
+      }
+    }
+  },
+  "40": {
+    "totalSeats": 41,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 25.1,
+        "seats": 11
+      },
+      "Frp": {
+        "value": 13.9,
+        "seats": 6
+      },
+      "H": {
+        "value": 19.5,
+        "seats": 8
+      },
+      "INP": {
+        "value": 6.7,
+        "seats": 3
+      },
+      "KrF": {
+        "value": 5.4,
+        "seats": 2
+      },
+      "MDG": {
+        "value": 3.4,
+        "seats": 1
+      },
+      "Pp": {
+        "value": 0,
+        "seats": 0
+      },
+      "R": {
+        "value": 5.1,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 10,
+        "seats": 4
+      },
+      "SV": {
+        "value": 6,
+        "seats": 3
+      },
+      "V": {
+        "value": 2.5,
+        "seats": 1
+      },
+      "Andre": {
+        "value": 2.4,
+        "seats": 0
+      }
+    }
+  },
+  "42": {
+    "totalSeats": 49,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 17,
+        "seats": 9
+      },
+      "Frp": {
+        "value": 13.1,
+        "seats": 7
+      },
+      "H": {
+        "value": 26.2,
+        "seats": 13
+      },
+      "INP": {
+        "value": 3.6,
+        "seats": 2
+      },
+      "KrF": {
+        "value": 11.7,
+        "seats": 6
+      },
+      "MDG": {
+        "value": 3,
+        "seats": 1
+      },
+      "Pp": {
+        "value": 2.6,
+        "seats": 1
+      },
+      "R": {
+        "value": 2.8,
+        "seats": 1
+      },
+      "Sp": {
+        "value": 5.7,
+        "seats": 3
+      },
+      "SV": {
+        "value": 5.5,
+        "seats": 3
+      },
+      "V": {
+        "value": 3.7,
+        "seats": 2
+      },
+      "Andre": {
+        "value": 5.1,
+        "seats": 1
+      }
+    }
+  },
+  "46": {
+    "totalSeats": 65,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 17.8,
+        "seats": 12
+      },
+      "Frp": {
+        "value": 12.6,
+        "seats": 9
+      },
+      "H": {
+        "value": 22.8,
+        "seats": 15
+      },
+      "INP": {
+        "value": 6.1,
+        "seats": 4
+      },
+      "KrF": {
+        "value": 4.9,
+        "seats": 3
+      },
+      "MDG": {
+        "value": 3.9,
+        "seats": 3
+      },
+      "Pp": {
+        "value": 1.4,
+        "seats": 1
+      },
+      "R": {
+        "value": 3.2,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 11,
+        "seats": 7
+      },
+      "SV": {
+        "value": 7.8,
+        "seats": 5
+      },
+      "V": {
+        "value": 4.2,
+        "seats": 3
+      },
+      "Andre": {
+        "value": 4.1,
+        "seats": 1
+      }
+    }
+  },
+  "50": {
+    "totalSeats": 59,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 27.3,
+        "seats": 16
+      },
+      "Frp": {
+        "value": 6.6,
+        "seats": 4
+      },
+      "H": {
+        "value": 22.6,
+        "seats": 14
+      },
+      "INP": {
+        "value": 3.5,
+        "seats": 2
+      },
+      "KrF": {
+        "value": 2.5,
+        "seats": 2
+      },
+      "MDG": {
+        "value": 4.4,
+        "seats": 3
+      },
+      "Pp": {
+        "value": 3.7,
+        "seats": 2
+      },
+      "R": {
+        "value": 4.1,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 11.8,
+        "seats": 7
+      },
+      "SV": {
+        "value": 8,
+        "seats": 5
+      },
+      "V": {
+        "value": 4,
+        "seats": 2
+      },
+      "Andre": {
+        "value": 1.5,
+        "seats": 0
+      }
+    }
+  },
+  "55": {
+    "totalSeats": 37,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 24.1,
+        "seats": 9
+      },
+      "Frp": {
+        "value": 14.6,
+        "seats": 6
+      },
+      "H": {
+        "value": 18.5,
+        "seats": 7
+      },
+      "INP": {
+        "value": 5.8,
+        "seats": 2
+      },
+      "KrF": {
+        "value": 3.4,
+        "seats": 1
+      },
+      "MDG": {
+        "value": 3.4,
+        "seats": 1
+      },
+      "Pp": {
+        "value": 0.9,
+        "seats": 0
+      },
+      "R": {
+        "value": 5.2,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 7.7,
+        "seats": 3
+      },
+      "SV": {
+        "value": 9.7,
+        "seats": 4
+      },
+      "V": {
+        "value": 2.5,
+        "seats": 1
+      },
+      "Andre": {
+        "value": 4.1,
+        "seats": 1
+      }
+    }
+  },
+  "56": {
+    "totalSeats": 35,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 22.8,
+        "seats": 8
+      },
+      "Frp": {
+        "value": 11.9,
+        "seats": 4
+      },
+      "H": {
+        "value": 12.2,
+        "seats": 4
+      },
+      "INP": {
+        "value": 2.6,
+        "seats": 1
+      },
+      "KrF": {
+        "value": 2,
+        "seats": 1
+      },
+      "MDG": {
+        "value": 2,
+        "seats": 1
+      },
+      "Pp": {
+        "value": 0,
+        "seats": 0
+      },
+      "R": {
+        "value": 4.8,
+        "seats": 2
+      },
+      "Sp": {
+        "value": 5.3,
+        "seats": 2
+      },
+      "SV": {
+        "value": 6.5,
+        "seats": 2
+      },
+      "V": {
+        "value": 3.1,
+        "seats": 1
+      },
+      "Andre": {
+        "value": 26.9,
+        "seats": 9
+      }
+    }
+  },
+  "03": {
+    "totalSeats": 59,
+    "source": "https://www.valg.no/valg/2023/fy",
+    "rows": {
+      "Ap": {
+        "value": 18.5,
+        "seats": 11
+      },
+      "Frp": {
+        "value": 6,
+        "seats": 4
+      },
+      "H": {
+        "value": 32.6,
+        "seats": 20
+      },
+      "INP": {
+        "value": 1.1,
+        "seats": 0
+      },
+      "KrF": {
+        "value": 1.7,
+        "seats": 1
+      },
+      "MDG": {
+        "value": 10.2,
+        "seats": 6
+      },
+      "Pp": {
+        "value": 0.6,
+        "seats": 0
+      },
+      "R": {
+        "value": 5.8,
+        "seats": 4
+      },
+      "Sp": {
+        "value": 0.8,
+        "seats": 0
+      },
+      "SV": {
+        "value": 10.1,
+        "seats": 6
+      },
+      "V": {
+        "value": 9.1,
+        "seats": 6
+      },
+      "Andre": {}
+    }
+  }
+}

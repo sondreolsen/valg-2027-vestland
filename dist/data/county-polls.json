@@ -1,0 +1,118 @@
+{
+  "15": {
+    "date": "25. september 2026",
+    "client": "Respons Analyse for Sunnmørsposten / Tidens Krav / Romsdals Budstikke",
+    "source": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5711",
+    "values": {
+      "Ap": 17.3,
+      "H": 12.9,
+      "Frp": 38.1,
+      "SV": 4.7,
+      "Sp": 8.2,
+      "KrF": 6.3,
+      "V": 3.5,
+      "MDG": 2.6,
+      "R": 5,
+      "Andre": 1.4
+    },
+    "seats": {
+      "Ap": 8,
+      "H": 6,
+      "Frp": 19,
+      "SV": 2,
+      "Sp": 4,
+      "KrF": 3,
+      "V": 2,
+      "MDG": 1,
+      "R": 2,
+      "Andre": 0
+    }
+  },
+  "18": {
+    "date": "12. august 2026",
+    "client": "Norstat for NRK / Avisa Nordland",
+    "source": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5680",
+    "values": {
+      "Ap": 19.5,
+      "H": 16.2,
+      "Frp": 29,
+      "SV": 4.9,
+      "Sp": 7.6,
+      "KrF": 1.7,
+      "V": 2.3,
+      "MDG": 4.7,
+      "R": 9.9,
+      "Andre": 4.2
+    },
+    "seats": {
+      "Ap": 9,
+      "H": 7,
+      "Frp": 13,
+      "SV": 2,
+      "Sp": 4,
+      "KrF": 1,
+      "V": 1,
+      "MDG": 2,
+      "R": 5,
+      "Andre": 1
+    }
+  },
+  "39": {
+    "date": "1. oktober 2026",
+    "client": "Sentio for Fremskrittspartiet",
+    "source": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5717",
+    "values": {
+      "Ap": 19.4,
+      "H": 23.2,
+      "Frp": 29.3,
+      "SV": 5.3,
+      "Sp": 4.3,
+      "KrF": 3.7,
+      "V": 2.4,
+      "MDG": 6.3,
+      "R": 3.6,
+      "Andre": 1.9
+    },
+    "seats": {
+      "Ap": 8,
+      "H": 10,
+      "Frp": 12,
+      "SV": 2,
+      "Sp": 2,
+      "KrF": 2,
+      "V": 1,
+      "MDG": 3,
+      "R": 1,
+      "Andre": 0
+    }
+  },
+  "50": {
+    "date": "14. september 2026",
+    "client": "Norstat for Adresseavisen / NRK",
+    "source": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5695",
+    "values": {
+      "Ap": 26.1,
+      "H": 17.4,
+      "Frp": 17.2,
+      "SV": 7.2,
+      "Sp": 10.5,
+      "KrF": 2.8,
+      "V": 3.4,
+      "MDG": 4.2,
+      "R": 8.3,
+      "Andre": 3
+    },
+    "seats": {
+      "Ap": 16,
+      "H": 11,
+      "Frp": 10,
+      "SV": 4,
+      "Sp": 6,
+      "KrF": 2,
+      "V": 2,
+      "MDG": 3,
+      "R": 5,
+      "Andre": 0
+    }
+  }
+}

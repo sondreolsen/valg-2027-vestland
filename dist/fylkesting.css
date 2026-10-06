@@ -75,3 +75,44 @@
 @media(max-width:1050px){.county-dashboard{grid-template-columns:220px minmax(0,1fr)}.county-map-card,#county-map{min-height:500px}.county-detail-card{grid-column:1/-1;height:auto}.county-leaders{grid-template-columns:repeat(2,minmax(0,1fr))}.county-candidate-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:760px){.county-page header{gap:12px}.back-to-municipal{padding:7px 10px;font-size:.7rem}.county-main{padding-top:18px}.county-dashboard{grid-template-columns:1fr}.county-map-card,#county-map{min-height:260px}.county-result{padding:21px 16px}.county-data-grid{grid-template-columns:1fr;gap:22px}.county-result-column{padding:22px 0 0;border-left:0;border-top:1px solid var(--border)}.county-detail-card{grid-column:auto;padding:22px 19px}.county-leaders{grid-template-columns:1fr}.county-result-head,.county-result-row{grid-template-columns:55px minmax(55px,1fr) 55px 54px;gap:7px}.county-candidates{padding:22px 14px}.county-candidate-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.county-candidate-placeholder{height:135px}.county-section-heading h2{font-size:1.35rem}}
 @media(max-width:420px){.county-candidate-grid{grid-template-columns:1fr}.county-candidate-placeholder{height:170px}.county-result-head,.county-result-row{grid-template-columns:48px minmax(35px,1fr) 52px 50px;font-size:.7rem}.county-result-head{font-size:.58rem}.county-result-row strong{font-size:.68rem}}
+.county-picker{display:flex;align-items:center;color:#cee2ef;font-size:.8rem}.county-picker label{display:flex;align-items:center;gap:8px}.county-picker select{width:190px;margin:0;padding:10px 30px 10px 12px}.county-dashboard{grid-template-columns:360px minmax(560px,1fr) 300px}.county-map-card,#county-map{min-height:670px}.county-page .county-link{background:#8ee1d2;color:#0b403e}.county-marker{background:transparent;border:0}.county-marker-inner{display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:#fffffff2;border:1px solid #fff;box-shadow:0 1px 5px #19334c45}.county-marker-inner img{width:22px;height:22px;object-fit:contain}.county-marker-label{display:block;margin-top:2px;padding:2px 5px;border-radius:4px;background:#102a43df;color:#fff;font-size:9px;font-weight:750;white-space:nowrap;text-align:center}.county-no-data{color:var(--muted);font-size:.8rem}.county-empty-poll{margin-top:0}.county-detail-card{min-height:670px}.county-detail-card .county-empty-poll{margin-top:20px}
+@media(max-width:1250px){.county-dashboard{grid-template-columns:300px minmax(0,1fr) 280px}.county-map-card,#county-map{min-height:600px}.county-detail-card{min-height:600px}}
+@media(max-width:1050px){.county-dashboard{grid-template-columns:300px minmax(0,1fr)}.county-detail-card{grid-column:1/-1;min-height:auto}.county-map-card,#county-map{min-height:600px}}
+@media(max-width:760px){.county-picker label{display:block;font-size:.68rem}.county-picker select{display:block;width:145px;margin-top:5px;font-size:.86rem;padding:9px 24px 9px 9px}.county-dashboard{grid-template-columns:1fr}.county-map-card,#county-map{min-height:360px}.county-detail-card{grid-column:auto;min-height:auto}.county-result{padding:21px 16px}.county-data-grid{grid-template-columns:1fr}.county-result-column{padding:22px 0 0;border-left:0;border-top:1px solid var(--border)}}
+.county-marker-inner{width:42px;height:42px}.county-marker-inner img{width:31px;height:31px}.county-marker-label{display:block;margin-top:3px;padding:2px 5px;border:1px solid #cbd9df;border-radius:4px;background:#fffffff2;color:#17354b;font-size:9px;font-weight:750;line-height:1.15;white-space:nowrap;text-align:center;box-shadow:0 1px 4px #19334c25;pointer-events:none}
+/* Place fylkesordfører and fylkesvaraordfører above the poll and election panels. */
+.county-dashboard{grid-template-columns:360px minmax(0,1fr)}
+.county-result{display:flex;flex-direction:column;gap:18px;padding:22px 24px}
+.county-result>.county-detail-card{height:auto;min-height:0;padding:0 0 16px;border:0;border-bottom:1px solid var(--border);border-radius:0;box-shadow:none}
+.county-result>.county-detail-card>h2{font-size:1.55rem;margin-bottom:10px}
+.county-result>.county-detail-card .county-leaders{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:10px}
+.county-result>.county-detail-card .county-mayor-person{grid-template-columns:72px minmax(0,1fr);gap:10px;padding:9px}
+.county-result>.county-detail-card .county-leader-photo{height:86px;border-radius:7px}
+.county-result>.county-detail-card .county-leader-photo-image{object-position:center 28%}
+.county-result>.county-detail-card .county-leader-photo-jon{transform:scale(1.18);transform-origin:50% 24%}
+.county-result>.county-detail-card .county-mayor-logo{width:28px;height:28px;margin-bottom:4px}
+.county-result>.county-detail-card .county-mayor-logo img{width:26px;height:26px}
+.county-result>.county-detail-card .county-mayor-person small,.county-result>.county-detail-card .county-mayor-person span{font-size:.64rem}
+.county-result>.county-detail-card .county-mayor-person strong{font-size:.78rem;margin:3px 0}
+.county-data-grid{height:auto}
+@media(max-width:1050px){.county-dashboard{grid-template-columns:300px minmax(0,1fr)}.county-result>.county-detail-card .county-leaders{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.county-dashboard{grid-template-columns:1fr}.county-result{padding:20px 16px;gap:16px}.county-result>.county-detail-card .county-leaders{grid-template-columns:1fr}.county-result>.county-detail-card .county-mayor-person{grid-template-columns:78px minmax(0,1fr)}.county-result>.county-detail-card .county-leader-photo{height:92px}}
+.county-page #county-map .leaflet-top.leaflet-left{left:auto;right:12px;top:12px}.county-page #county-map .leaflet-control-zoom{margin:0!important}
+.brand-name{display:block;color:#fff;font-size:1.18rem;font-weight:700;letter-spacing:-.025em;white-space:nowrap}
+.site-nav{display:flex;align-items:center;gap:8px;margin-left:auto;margin-right:22px}
+.site-nav-button{display:inline-flex;align-items:center;justify-content:center;padding:9px 13px;border:1px solid #597282;border-radius:8px;color:#d9edf5;text-decoration:none;font-size:.8rem;font-weight:700;white-space:nowrap}
+.site-nav-button:hover{background:#ffffff12;color:#fff}.site-nav-button.site-nav-active{background:#8ee1d2;border-color:#8ee1d2;color:#0b403e}
+@media(max-width:1000px){.brand-name{font-size:1rem}.site-nav{margin-right:12px}.site-nav-button{padding:8px 10px;font-size:.72rem}}
+@media(max-width:760px){.county-page header{flex-wrap:wrap;gap:10px}.brand-name{font-size:.92rem;white-space:normal;line-height:1.1;max-width:230px}.site-nav{order:3;width:100%;margin:0;justify-content:flex-start}.county-picker{margin-left:auto}}
+/* Give the county map the same visual weight as the municipality map. */
+.county-dashboard{grid-template-columns:minmax(540px,1.18fr) minmax(560px,1fr)}
+@media(max-width:1120px){.county-dashboard{grid-template-columns:minmax(500px,1fr) minmax(500px,1fr)}}
+@media(max-width:1050px){.county-dashboard{grid-template-columns:1fr}.county-result{grid-column:1}}
+/* Keep percentage and mandate columns visible beside the bars. */
+.county-data-grid{grid-template-columns:minmax(170px,.8fr) minmax(0,1.2fr);gap:16px}
+.county-result-head,.county-result-row{grid-template-columns:40px minmax(0,1fr) 48px 46px;gap:4px}
+.county-result-head{font-size:.58rem}
+.county-result-head span:nth-child(3),.county-result-head span:nth-child(4){white-space:nowrap}
+.county-result-row{font-size:.7rem}
+.county-result-row strong{font-size:.68rem}
+.county-result-column{padding-left:14px}
