@@ -127,3 +127,4 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 
 .brand-mark{overflow:hidden}.brand-mark img{width:100%;height:100%;display:block;object-fit:cover}
 .brand-mark{width:92px;height:92px}.map-shell{overflow:hidden;border-radius:15px}@media(max-width:760px){.brand-mark{width:78px;height:78px}.map-shell{border-radius:11px}}
+.workspace{column-gap:18px;background:transparent;overflow:visible}.workspace>.map-shell,.workspace>.detail{background:#fff;border:1px solid var(--border);border-radius:15px;overflow:hidden}@media(max-width:760px){.workspace{row-gap:18px}.workspace>.detail{border-top:1px solid var(--border)}}
