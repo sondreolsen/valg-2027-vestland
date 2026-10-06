@@ -130,3 +130,4 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 .workspace{column-gap:18px;background:transparent;overflow:visible}.workspace>.map-shell,.workspace>.detail{background:#fff;border:1px solid var(--border);border-radius:15px;overflow:hidden}@media(max-width:760px){.workspace{row-gap:18px}.workspace>.detail{border-top:1px solid var(--border)}}
 .brand-mark img{transform:scale(1.35) translateX(4%);transform-origin:58% 28%}
 .workspace{column-gap:14px}@media(max-width:760px){.workspace{row-gap:14px}}
+@media(min-width:761px){.workspace{column-gap:0}.workspace .map-shell{margin-right:14px}.workspace .detail{margin-left:0}}@media(max-width:760px){.workspace .map-shell{margin-right:0}}
