@@ -125,3 +125,4 @@ header{gap:24px}header .picker{color:#cee2ef;margin:0;flex-shrink:0}header .pick
 
 @media(min-width:761px){header{display:flex;justify-content:flex-start;align-items:center;gap:24px}header>.brand{flex:0 0 auto}header>.site-nav{flex:0 0 auto;margin:0}header>.picker,header>.county-picker{flex:0 0 auto;grid-column:auto;justify-self:auto;margin:0}}
 
+.brand-mark{overflow:hidden}.brand-mark img{width:100%;height:100%;display:block;object-fit:cover}
