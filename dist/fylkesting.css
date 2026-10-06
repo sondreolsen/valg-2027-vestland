@@ -118,3 +118,4 @@
 .county-result-column{padding-left:14px}
 @media(max-width:760px){.county-reset-map{left:10px;top:10px;padding:9px 11px;font-size:1rem}}
 .county-main{max-width:1504px}
+.county-main{max-width:none;padding-left:28px;padding-right:28px}@media(max-width:760px){.county-main{padding-left:14px;padding-right:14px}}
