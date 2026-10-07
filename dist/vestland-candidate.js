@@ -2,7 +2,7 @@
   const addCandidate = () => {
     const heading = document.querySelector('#county-detail-card h2');
     const grid = document.querySelector('#county-candidates .county-candidate-grid');
-    if (!heading || !grid || heading.textContent.trim() !== 'Vestland' || grid.querySelector('[data-jon-olav-okland]')) return;
+    if (!heading || !grid || heading.textContent.trim() !== 'Vestland' || grid.querySelector('[data-jon-olav-okland], img[alt="Jon Olav Økland"]')) return;
     const card = document.createElement('article');
     card.className = 'county-candidate';
     card.dataset.jonOlavOkland = 'true';
