@@ -18,7 +18,16 @@
     'Eirik Losnegaard Mevik':'55-eirik.jpg',
     'Tomas Iver Hallem':'50-tomas.jpg',
     'Jon Askeland':'46-jon.jpg',
-    'Stian Jean Opedal Davies':'46-stian.jpg'
+    'Stian Jean Opedal Davies':'46-stian.jpg',
+    'Sindre Martinsen Evje':'31-sindre.jpg',
+    'Anette Lindahl Raakil':'31-anette.jpg',
+    'Anne Strømøy':'39-anne.jpg',
+    'Ellen Eriksen':'39-ellen.jpg',
+    'Hilde Alice Vågslid':'40-hilde.jpg',
+    'Anne Lindboe':'03-anne.jpg',
+    'Julianne Ofstad':'03-julianne.jpg',
+    'Anders Riise':'15-anders.jpg',
+    'Anne Marie Fiksdal':'15-anne-marie.jpg'
   };
   const update = () => document.querySelectorAll('.county-mayor-person').forEach(person => {
     const name = person.querySelector('.county-leader-info strong')?.textContent.trim();
