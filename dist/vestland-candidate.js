@@ -6,7 +6,7 @@
     const card = document.createElement('article');
     card.className = 'county-candidate';
     card.dataset.jonOlavOkland = 'true';
-    card.innerHTML = '<div class="county-candidate-party"><img src="assets/logos/krf.png" alt="Kristelig Folkeparti"><span>Kristelig Folkeparti</span></div><div class="county-candidate-photo"><img src="assets/candidates/jon-olav-okland.png" alt="Jon Olav Økland"></div><h3>Jon Olav Økland</h3><p>Innstilt</p>';
+    card.innerHTML = '<div class="county-candidate-party"><img src="assets/logos/krf.png" alt="Kristelig Folkeparti"><span>Kristelig Folkeparti</span></div><div class="county-candidate-photo"><img src="assets/candidates/jon-olav-okland.jpg" alt="Jon Olav Økland"></div><h3>Jon Olav Økland</h3><p>Innstilt</p>';
     grid.append(card);
   };
   new MutationObserver(addCandidate).observe(document.body, {childList:true, subtree:true});
