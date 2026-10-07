@@ -35,7 +35,7 @@ const priorityCandidateIds=['0301','4601','5001','1103','3201','4204','3301','32
 const candidatePartyTemplates=[['Ap','Arbeiderpartiet','Ap'],['H','Høyre','H'],['FrP','Frp','FrP'],['SV','SV','SV'],['Sp','Senterpartiet','Sp'],['KrF','KrF','KrF'],['V','Venstre','V'],['MDG','MDG','MDG'],['R','Rødt','R']];
 const priorityCandidates=Object.fromEntries(priorityCandidateIds.map(id=>[id,candidatePartyTemplates.map(([party,label,acronym])=>({party,label,acronym,name:'Toppkandidat ikke lagt inn ennå'}))]));
 priorityCandidates['4601']=bergenCandidates;
-priorityCandidates['1108'][5]={party:'KrF',label:'KrF',acronym:'KrF',name:'Olav Eggebø Ånonsen',image:'assets/candidates/olav-eggebo-aanonsen.jpg'};
+priorityCandidates['1108'][5]={party:'KrF',label:'KrF',acronym:'KrF',name:'Olav Eggebø Ånonsen',status:'Valgt',image:'assets/candidates/olav-eggebo-aanonsen.jpg'};
 
 function renderCandidates(m){
  const host=document.querySelector('#candidate-grid');
