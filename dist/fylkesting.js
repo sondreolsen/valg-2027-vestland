@@ -12,7 +12,6 @@ const countyLeaders={
  '34':{mayor:['Thomas Breen','Ap'],deputy:['Hanne Alstrup Velure','H']},
  '15':{mayor:['Anders Riise','H'],deputy:['Anne Marie Fiksdal','Frp']},
  '18':{mayor:['Eivind Holst','H','assets/candidates/eivind-holst.jpg'],deputy:['Linda Helen Haukland','KrF','assets/candidates/linda-helen-haukland.jpg']},
- '03':{mayor:['Anne Lindboe','H'],deputy:['Julianne Ofstad','Frp']},
  '11':{mayor:['Ole Ueland','H','assets/candidates/ole-ueland.jpg'],deputy:['Svein Erik Indbjo','Frp','assets/candidates/svein-erik-indbjo.jpg']},
  '40':{mayor:['Terje Riis-Johansen','Sp','assets/candidates/terje-riis-johansen.jpg'],deputy:['Hilde Alice Vågslid','Ap']},
  '55':{mayor:['Benjamin Furuly','H','assets/candidates/benjamin-furuly.jpg'],deputy:['Eirik Losnegaard Mevik','Ap','assets/candidates/eirik-losnegaard-mevik.jpg']},
