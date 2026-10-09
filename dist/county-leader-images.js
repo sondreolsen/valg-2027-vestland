@@ -24,7 +24,7 @@
     'Anne Strømøy':'39-anne.jpg',
     'Ellen Eriksen':'39-ellen.jpg',
     'Hilde Alice Vågslid':'40-hilde.jpg',
-    'Anne Lindboe':'03-anne.jpg',
+    'Anne Lindboe':'03-anne.avif',
     'Julianne Ofstad':'03-julianne.jpg',
     'Anders Riise':'15-anders.jpg',
     'Anne Marie Fiksdal':'15-anne-marie.jpg'
